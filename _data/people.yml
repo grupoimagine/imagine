@@ -294,9 +294,9 @@ master-alum-fmedina:
     webpage: http://ingfabianmedina.epizy.com
     image: /img/people/foto_fmedina.jpg
 
-master-joseDorado:
+phd-joseDorado:
     display_name: José Luis Dorado
-    role: master
+    role: phd
     webpage: https://www.researchgate.net/profile/Jose_Dorado5
     image: /img/people/foto_JoseDorado.jpg
 
@@ -322,9 +322,9 @@ phd-alum-philippFeix:
     role: phd-alum
     image: /img/people/foto_PhilippFeix.jpg
 
-phd-alum-praimbaud:
+phd-praimbaud:
     display_name: Pierre Raimbaud
-    role: phd-alum
+    role: phd
     image: /img/people/foto_PierreRaimbaud.jpg
 
 master-alum-cynthiaOchoa:
