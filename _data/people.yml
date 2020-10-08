@@ -53,9 +53,8 @@ prof-nelsonAndresSanchez:
 
 prof-carolinaHiguera:
     display_name: Carolina Higuera Arias
-    role: faculty
+    role: collab
     webpage: https://www.researchgate.net/profile/Carolina_Higuera2
-    role: faculty
     image: /img/people/foto_CarolinaHiguera.jpg
     bio: Instructor Professor
 
@@ -259,9 +258,9 @@ master-alum-meiliVanegas:
     webpage: https://mvanegas10.github.io/
     image: /img/people/foto_meiliVanegas.png
 
-grad-camiloMera:
+master-camiloMera:
     display_name: David Camilo Mera David
-    role: grad
+    role: master
     webpage: https://about.me/cmera
     image: /img/people/foto_camiloMera.jpg
 
@@ -295,15 +294,15 @@ master-alum-fmedina:
     webpage: http://ingfabianmedina.epizy.com
     image: /img/people/foto_fmedina.jpg
 
-grad-joseDorado:
+master-joseDorado:
     display_name: José Luis Dorado
-    role: grad
+    role: master
     webpage: https://www.researchgate.net/profile/Jose_Dorado5
     image: /img/people/foto_JoseDorado.jpg
 
-grad-DavidCubillos:
+master-DavidCubillos:
     display_name: David Fernando Cubillos
-    role: grad
+    role: master
     image: /img/people/foto_DavidCubillos.PNG
 
 phd-alum-juanPabloReyes:

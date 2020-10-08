@@ -6,17 +6,6 @@ Here is the list of our partners
 
 ## Academic
 
-* Uno
-* Uno
-* Uno
-* Uno
-
-## Industry
-
-* Dos
-* Dos
-* Dos
-* Dos
 <div class="col-lg-4 mb-4">
 </div>
 
