@@ -204,7 +204,7 @@ ugrad-camiloZambrano:
     webpage: https://cawolfkreo.github.io/
     image: /img/people/foto_CamiloZambrano.jpg
 
-ugrad-zulmaCastañeda:
+ugrad-zulmaCastaneda:
     display_name: Zulma Lorena Castañeda Hidalgo
     role: ugrad-alum
     webpage: https://zlcastaneda10.github.io/
@@ -215,6 +215,24 @@ ugrad-camiloUseche:
    role: ugrad-alum
    webpage: https://juancamilousecherodriguez.github.io/
    image: /img/people/foto_juanUseche.jpg
+
+ugrad-pabloSuarez:
+    display_name: Pablo Andrés Suarez Murillo
+    role: ugrad
+    webpage: https://www.linkedin.com/in/pablo-andres-suarez/
+    image: /img/people/foto_pabloSuarez.png
+
+ugrad-danielPardo:
+    display_name: Daniel Andrés Pardo Chaves
+    role: ugrad
+    webpage: https://danielpardo.website/
+    image: /img/people/foto_danielPardo.png
+
+ugrad-andresLosada:
+    display_name: Andrés Felipe Losada Luna
+    role: ugrad
+    webpage: https://www.linkedin.com/in/andres-felipe-l-4a63a3104/
+    image: /img/people/foto_andresLosada.png
 
 ugrad-alum-gabrielMartinez:
    display_name: Gabriel Martínez Zarama
@@ -231,11 +249,11 @@ ugrad-alum-cristianAmaya:
   webpage: https://cm-amaya.github.io/
   image: /img/people/foto_CristianAmaya.jpg
 
-grad-johannGonzalez:
+phd-alum-johannGonzalez:
    display_name: Johann Felipe González
-   role: grad-alum
-    #webpage: https://eacabello10.github.io/
-    #image: /img/people/foto_DiegoRodriguez.jpg
+   role: phd-alum
+   webpage: https://cil.csit.carleton.ca/staff-members/johann-felipe-gonzalez-avila/
+   image: /img/people/foto_JohannGonzalez.png
 
 phd-alum-diegorodriguez:
     display_name: Diego Rodríguez
@@ -257,6 +275,34 @@ master-alum-meiliVanegas:
     role: master-alum
     webpage: https://mvanegas10.github.io/
     image: /img/people/foto_meiliVanegas.png
+
+ugrad-alum-andresSandoval:
+    display_name: Andrés Sandoval
+    role: ugrad-alum
+    webpage: https://asandovaluniandes.github.io/portfolio/
+    image: /img/people/foto_andresSandoval.jpg
+
+ugrad-alum-danielCagua:
+    display_name: Daniel Cagua Ennis
+    role: ugrad-alum
+    webpage: https://co.linkedin.com/in/daniel-cagua-ennis-93aaa9154
+    image: /img/people/foto_DanielCagua.jpg
+
+ugrad-alum-omarPino:
+    display_name: Omar Leonardo Pino Reyes
+    role: ugrad-alum
+    image: /img/people/foto_OmarPino.jpg
+
+ugrad-alum-sergioMadera:
+    display_name: Sergio Madera
+    role: ugrad-alum
+    webpage: https://co.linkedin.com/in/sergio-madera?challengeId=AQH0B4taKbSh9QAAAXVRRwomRXfN6B3b-_yJyTYTUyZsG8DC7tAPSJvsRAHql2E2G5Ev91BIQhwabOS0a4831IWRaO1hune0ig&submissionId=355ee627-725f-4016-a2ea-c361f906d93b
+    image: /img/people/foto_SergioMadera.jfif
+
+ugrad-alum-rafaelForero:
+    display_name: RafaelForero
+    role: ugrad-alum
+    webpage: https://github.com/rafafor24
 
 master-camiloMera:
     display_name: David Camilo Mera David
@@ -300,10 +346,21 @@ phd-joseDorado:
     webpage: https://www.researchgate.net/profile/Jose_Dorado5
     image: /img/people/foto_JoseDorado.jpg
 
-master-DavidCubillos:
+master-davidCubillos:
     display_name: David Fernando Cubillos
     role: master
     image: /img/people/foto_DavidCubillos.PNG
+
+master-kellyPenaranda:
+    display_name: Kelly Katherine Peñaranda Rivera
+    role: master
+    image: /img/people/foto_KellyPenaranda.jpeg
+
+master-vivianGomez:
+    display_name: Vivian Natalia Gómez Cubillos
+    role: master
+    webpage: https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/
+    image: /img/people/foto_VivianGomez.png
 
 phd-alum-juanPabloReyes:
     display_name: Juan Pablo Reyes Gomez
@@ -406,3 +463,16 @@ collab-FredericMerienn:
     webpage: http://www.linkedin.com/pub/fr%C3%A9d%C3%A9ric-merienne/14/586/451
     role: collab
     image: http://institutimage.ensam.eu/medias/photo/frederic-merienne_1418637891333-jpg
+
+collab-johnCMcClelland:
+    display_name: John C McClelland
+    webpage:  https://cil.csit.carleton.ca/staff-members/john-mcclelland/
+    role: collab
+    image: /img/people/foto_johnCMcClelland.png
+
+collab-audreyGirouard:
+    display_name: Audrey Girouard
+    webpage:  https://carleton.ca/hci/people/audrey-girouard/
+    role: collab
+    image: /img/people/foto_audreyGirouard.jpg
+
