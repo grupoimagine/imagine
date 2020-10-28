@@ -5,7 +5,8 @@ description:
 
 people:
   - prof-pablofigueroa
-  - master-vivianGomez
+  - ugrad-alum-juanCorrea
+  - ugrad-alum-AndresBejarano
 
 layout: project
 
@@ -26,5 +27,5 @@ Este proyecto consta de un prototipo de videojuego en realidad virtual, el cual 
 * Crear mensajes ocultos siguiendo las instrucciones sobre cómo organizar una serie de objetos.
 
 <iframe width="700" height="500"
-          src="https://www.youtube.com/embed/mbAbzxoia-Y">
+          src="https://www.youtube.com/embed/hTaPmFHje3M">
           </iframe>

@@ -7,6 +7,8 @@ people:
   - prof-pablofigueroa
   - ugrad-alum-omarPino
   - ugrad-alum-sergioMadera
+  - ugrad-alum-juanCamacho
+  - ugrad-alum-joseRiano
 
 layout: project
 

@@ -304,6 +304,27 @@ ugrad-alum-rafaelForero:
     role: ugrad-alum
     webpage: https://github.com/rafafor24
 
+ugrad-alum-juanCorrea:
+    display_name: Juan Diego Correa
+    image: /img/people/foto_JuanCorrea.PNG
+    role: ugrad-alum
+
+ugrad-alum-AndresBejarano:
+    display_name: Andrés Bejarano
+    image: /img/people/foto_AndresBejarano.PNG
+    role: ugrad-alum
+
+ugrad-alum-juanCamacho:
+    display_name: Juan Pablo Camacho
+    role: ugrad-alum
+    image: /img/people/foto_JuanCamacho.PNG
+
+ugrad-alum-joseRiano:
+    display_name: Jose Alejandro Riaño Riaño
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/joalri/?originalSubdomain=co
+    image: /img/people/foto_JoseRiano.PNG
+
 master-camiloMera:
     display_name: David Camilo Mera David
     role: master
