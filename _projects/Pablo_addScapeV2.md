@@ -5,7 +5,8 @@ description:
 
 people:
   - prof-pablofigueroa
-  - master-vivianGomez
+  - ugrad-alum-juanCorrea
+  - ugrad-alum-AndresBejarano
 
 layout: project
 
@@ -16,7 +17,7 @@ research_area: Mixed Realities
 
 ---
 
-Vivian Gómez is developing a second interaction over ADD SCAPE, which consists on psychological tests for children with attention problems through games in a virtual environment.
+Juan and Andrés developed a second interaction over ADD SCAPE, which consists on psychological tests for children with attention problems through games in a virtual environment.
 
 This is an application that seeks to help conduct psychological tests for children with attention problems through games. It seeks to determine the status and progress of each child, through a virtualization of traditional games, accompanied by more fun components. Thanks to the immersive environment (through VR) and the use of the "Escape Room" game type, as a motivator for children.
 
