@@ -5,14 +5,15 @@ description:
 
 people:
   - prof-pablofigueroa
-  - ugrad-alum-juanCorrea
-  - ugrad-alum-AndresBejarano
+  - master-vivianGomez
 
 layout: project
 
 image: /img/projects/Pablo/addscape.PNG
 
 research_area: Mixed Realities
+
+status: inactive
 
 
 ---
