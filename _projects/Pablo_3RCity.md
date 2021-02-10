@@ -14,7 +14,7 @@ layout: project
 
 image: /img/projects/Pablo/3RCity.PNG
 
-research_area: Mixed Realities
+research_area: Video Games
 
 
 ---

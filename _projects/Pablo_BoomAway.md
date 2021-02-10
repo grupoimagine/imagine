@@ -13,7 +13,7 @@ layout: project
 
 image: /img/projects/Pablo/boomAway.PNG
 
-research_area: Mixed Realities
+research_area: Video Games
 
 
 ---
