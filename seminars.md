@@ -10,6 +10,40 @@ Take a look at our latest seminars
 <div class="col-lg-4 mb-4">
 	<div class="card">
 		    <div class="card-body">
+		            <a href="https://www.youtube.com/watch?v=6UQEKcYM5c4&list=PLImXQjxOmxay0kMmaDUwkaogro8jc-okO&index=26" target ="#blank">
+		                <img class="img-fluid mb-3" src="./img/seminars/seminarioImagine.PNG" alt="Seminario Imagine  5 de Abril de 2021">
+		            </a>
+		            <h4 class="card-title">
+		                5 de Abril de 2021
+		                <br><br>
+		                Visual Analytics para sistemas urbanos
+		            </h4>
+		        </div>
+		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
+		     </div>
+  		</div>	
+</div>
+
+<div class="col-lg-4 mb-4">
+	<div class="card">
+		    <div class="card-body">
+		            <a href="https://www.youtube.com/watch?v=roRD1naBzvU&list=PLImXQjxOmxay0kMmaDUwkaogro8jc-okO&index=25" target ="#blank">
+		                <img class="img-fluid mb-3" src="./img/seminars/seminarioImagine.PNG" alt="Seminario Imagine  1 de Marzo de 2021">
+		            </a>
+		            <h4 class="card-title">
+		                1 de Marzo de 2021
+		                <br><br>
+		                VR Simulators for Training
+		            </h4>
+		        </div>
+		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
+		     </div>
+  		</div>	
+</div>
+
+<div class="col-lg-4 mb-4">
+	<div class="card">
+		    <div class="card-body">
 		            <a href="https://www.youtube.com/watch?v=RvB_viBV0Z4&list=PLImXQjxOmxay0kMmaDUwkaogro8jc-okO&index=24&ab_channel=ImagineUniandes" target ="#blank">
 		                <img class="img-fluid mb-3" src="./img/seminars/seminarioImagine.PNG" alt="Seminario Imagine 19 de Octubre de 2020">
 		            </a>
@@ -467,6 +501,38 @@ Take a look at our latest seminars
 
 ## Impacto Imagine
 <div class="row">
+<div class="col-lg-4 mb-4">
+   	<div class="card">
+		    <div class="card-body">
+		            <a href="https://www.youtube.com/watch?v=B1ZgM5sr0DY&list=PLImXQjxOmxaygHcWHCwD0RTvxi5o3ESxe&index=15" target ="#blank">
+		                <img class="img-fluid mb-3" src="./img/seminars/impactoImagine.PNG" alt="Impacto Imagine Diego Rodriguez">
+		            </a>
+		             <h4 class="card-title">
+		                Mario Varón y Diego Rodriguez
+		                <br><br>
+		                Imaginex
+		            </h4>
+		        </div>
+		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
+		    </div>
+  		</div>		
+	</div>
+	<div class="col-lg-4 mb-4">
+   	<div class="card">
+		    <div class="card-body">
+		            <a href="https://www.youtube.com/watch?v=XyUTXRTvmR4&list=PLImXQjxOmxaygHcWHCwD0RTvxi5o3ESxe&index=14" target ="#blank">
+		                <img class="img-fluid mb-3" src="./img/seminars/impactoImagine.PNG" alt="Impacto Imagine Camilo García">
+		            </a>
+		             <h4 class="card-title">
+		                Camilo García
+		                <br><br>
+		                Electronic Arts
+		            </h4>
+		        </div>
+		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
+		    </div>
+  		</div>		
+	</div>
 	<div class="col-lg-4 mb-4">
    	<div class="card">
 		    <div class="card-body">
