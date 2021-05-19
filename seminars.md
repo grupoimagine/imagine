@@ -2,7 +2,7 @@
 layout: default
 title: Seminars
 ---
-Take a look at our latest seminars
+Take a look at our latest seminars. You can also check all our content in our Youtube channel: <a href="https://www.youtube.com/channel/UCVFbKXkAp52OxAiIj1N8xuQ">Imagine Uniandes</a>
 
 ## Seminarios Imagine
 <div class="row">
