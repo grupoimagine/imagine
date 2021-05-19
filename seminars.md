@@ -10,6 +10,23 @@ Take a look at our latest seminars
 <div class="col-lg-4 mb-4">
 	<div class="card">
 		    <div class="card-body">
+		            <a href="https://www.youtube.com/watch?v=pcwmgIkXXq4&list=PLImXQjxOmxay0kMmaDUwkaogro8jc-okO&index=27" target ="#blank">
+		                <img class="img-fluid mb-3" src="./img/seminars/seminarioImagine.PNG" alt="Seminario Imagine  3 de Mayo de 2021">
+		            </a>
+		            <h4 class="card-title">
+		                3 de Mayo de 2021
+		                <br><br>
+		                Simulación para vehículos utónomos / Juego serio para el reciclaje
+		            </h4>
+		        </div>
+		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
+		     </div>
+  		</div>	
+</div>
+
+<div class="col-lg-4 mb-4">
+	<div class="card">
+		    <div class="card-body">
 		            <a href="https://www.youtube.com/watch?v=6UQEKcYM5c4&list=PLImXQjxOmxay0kMmaDUwkaogro8jc-okO&index=26" target ="#blank">
 		                <img class="img-fluid mb-3" src="./img/seminars/seminarioImagine.PNG" alt="Seminario Imagine  5 de Abril de 2021">
 		            </a>
@@ -501,6 +518,22 @@ Take a look at our latest seminars
 
 ## Impacto Imagine
 <div class="row">
+<div class="col-lg-4 mb-4">
+   	<div class="card">
+		    <div class="card-body">
+		            <a href="https://www.youtube.com/watch?v=B1ZgM5sr0DY&list=PLImXQjxOmxaygHcWHCwD0RTvxi5o3ESxe&index=16" target ="#blank">
+		                <img class="img-fluid mb-3" src="./img/seminars/impactoImagine.PNG" alt="Impacto Imagine Diego Rodriguez">
+		            </a>
+		             <h4 class="card-title">
+		                Juan Sebastián Torres
+		                <br><br>
+		                Diagnos
+		            </h4>
+		        </div>
+		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
+		    </div>
+  		</div>		
+	</div>
 <div class="col-lg-4 mb-4">
    	<div class="card">
 		    <div class="card-body">
