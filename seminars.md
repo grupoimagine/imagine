@@ -10,6 +10,23 @@ Take a look at our latest seminars. You can also check all our content in our Yo
 <div class="col-lg-4 mb-4">
 	<div class="card">
 		    <div class="card-body">
+		            <a href="https://www.youtube.com/watch?v=jKKNp3O86NE" target ="#blank">
+		                <img class="img-fluid mb-3" src="./img/seminars/seminarioImagine.PNG" alt="Seminario Imagine 24 de Mayo de 2021">
+		            </a>
+		            <h4 class="card-title">
+		                24 de Mayo de 2021
+		                <br><br>
+		                Juéguelo
+		            </h4>
+		        </div>
+		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
+		     </div>
+  		</div>	
+</div>
+
+<div class="col-lg-4 mb-4">
+	<div class="card">
+		    <div class="card-body">
 		            <a href="https://www.youtube.com/watch?v=pcwmgIkXXq4&list=PLImXQjxOmxay0kMmaDUwkaogro8jc-okO&index=27" target ="#blank">
 		                <img class="img-fluid mb-3" src="./img/seminars/seminarioImagine.PNG" alt="Seminario Imagine  3 de Mayo de 2021">
 		            </a>
@@ -518,6 +535,22 @@ Take a look at our latest seminars. You can also check all our content in our Yo
 
 ## Impacto Imagine
 <div class="row">
+<div class="col-lg-4 mb-4">
+   	<div class="card">
+		    <div class="card-body">
+		            <a href="https://www.youtube.com/watch?v=-MSz2N2Sdig" target ="#blank">
+		                <img class="img-fluid mb-3" src="./img/seminars/impactoImagine.PNG" alt="Impacto Imagine Daniel Rojas">
+		            </a>
+		             <h4 class="card-title">
+		                Daniel Rojas
+		                <br><br>
+		                3GO Video
+		            </h4>
+		        </div>
+		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
+		    </div>
+  		</div>		
+	</div>
 <div class="col-lg-4 mb-4">
    	<div class="card">
 		    <div class="card-body">

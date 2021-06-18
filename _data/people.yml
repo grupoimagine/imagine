@@ -234,6 +234,30 @@ ugrad-andresLosada:
     webpage: https://www.linkedin.com/in/andres-felipe-l-4a63a3104/
     image: /img/people/foto_andresLosada.png
 
+ugrad-juanSanchez:
+    display_name: Juan Camilo Sanchez Pardo
+    role: ugrad
+
+ugrad-juanPalacios:
+    display_name: Juan Sebastián Palacios
+    role: ugrad
+
+ugrad-julianAmezquita:
+    display_name: Julian Stiven Amezquita Moreno
+    role: ugrad
+
+ugrad-luisGarcia:
+    display_name: Luis Jose García Mojica
+    role: ugrad
+
+ugrad-luisaRodriguez:
+    display_name: Luisa Mariana Rodriguez Cifuentes
+    role: ugrad
+
+ugrad-andresDaza:
+    display_name: Andres Felipe Daza Diaz
+    role: ugrad
+
 ugrad-alum-gabrielMartinez:
    display_name: Gabriel Martínez Zarama
    role: ugrad-alum
