@@ -240,23 +240,23 @@ ugrad-juanSanchez:
 
 ugrad-juanPalacios:
     display_name: Juan Sebastián Palacios
-    role: ugrad
+    role: ugrad-alum
 
 ugrad-julianAmezquita:
     display_name: Julian Stiven Amezquita Moreno
-    role: ugrad
+    role: ugrad-alum
 
 ugrad-luisGarcia:
     display_name: Luis Jose García Mojica
-    role: ugrad
+    role: ugrad-alum
 
 ugrad-luisaRodriguez:
     display_name: Luisa Mariana Rodriguez Cifuentes
-    role: ugrad
+    role: ugrad-alum
 
 ugrad-andresDaza:
     display_name: Andres Felipe Daza Diaz
-    role: ugrad
+    role: ugrad-alum
 
 ugrad-alum-gabrielMartinez:
    display_name: Gabriel Martínez Zarama
@@ -275,7 +275,7 @@ ugrad-alum-cristianAmaya:
 
 phd-alum-johannGonzalez:
    display_name: Johann Felipe González
-   role: phd-alum
+   role: master-alum
    webpage: https://cil.csit.carleton.ca/staff-members/johann-felipe-gonzalez-avila/
    image: /img/people/foto_JohannGonzalez.png
 
@@ -387,7 +387,7 @@ master-alum-fmedina:
 
 phd-joseDorado:
     display_name: José Luis Dorado
-    role: phd
+    role: phd-alum
     webpage: https://www.researchgate.net/profile/Jose_Dorado5
     image: /img/people/foto_JoseDorado.jpg
 
@@ -421,12 +421,12 @@ master-alum-ricardoMendoza:
 
 phd-alum-philippFeix:
     display_name: Philipp Feix
-    role: phd-alum
+    role: master-alum
     image: /img/people/foto_PhilippFeix.jpg
 
 phd-praimbaud:
     display_name: Pierre Raimbaud
-    role: phd
+    role: phd-alum
     image: /img/people/foto_PierreRaimbaud.jpg
 
 master-alum-cynthiaOchoa:
@@ -520,4 +520,19 @@ collab-audreyGirouard:
     webpage:  https://carleton.ca/hci/people/audrey-girouard/
     role: collab
     image: /img/people/foto_audreyGirouard.jpg
+    
+ugrad-andresSanchez:
+    display_name: Andrés Felipe Sánchez Rangel
+    role: ugrad
+
+ugrad-santiagoGamboa:
+    display_name: Santiago Esteban Gamboa
+    role: ugrad
+
+ugrad-nicolasFajardo:
+    display_name: Nicolás FajardoRamirez
+    role: ugrad
+
+
+
 
