@@ -530,8 +530,40 @@ ugrad-santiagoGamboa:
     role: ugrad
 
 ugrad-nicolasFajardo:
-    display_name: Nicolás FajardoRamirez
+    display_name: Nicolás Fajardo Ramirez
     role: ugrad
+
+ugrad-paulaVargas:
+    display_name: Paula Sofia Vargas Peña
+    role: ugrad-alum
+
+ugrad-nicolasCardenas:
+    display_name: Nicolás Cásdenas Segura
+    role: ugrad-alum
+
+ugrad-julianMendoza:
+    display_name: Julian David Mendoza Ruiz
+    role: ugrad-alum
+
+ugrad-julioMorales:
+    display_name: Julio Alejandro Morales Buitrago
+    role: ugrad-alum
+
+ugrad-andresGonzalez:
+    display_name: Andrés Javier González Torres
+    role: ugrad-alum
+
+ugrad-santiagoSerrano:
+    display_name: Santiago de Jesús
+    role: ugrad-alum
+
+
+
+
+
+
+
+
 
 
 
