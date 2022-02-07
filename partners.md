@@ -29,7 +29,8 @@ Here is the list of our partners
 <div class="col-lg-4 mb-4">
 </div>
 
-## Industry
+## Companies Where Our Alumni are CoFounders
+
 <div class="row">
 	<div class="col-lg-4 mb-4">
 	<div class="card">
@@ -82,6 +83,16 @@ Here is the list of our partners
 		     </div>
   		</div>
 </div>
+
+<p>Others:</p>
+	<ul>
+		<LI> Umbra (Carlos Duque)
+		<LI> 3GO Video (Daniel Rojas)
+		<LI> YPC Technologies (Camilo Perez)
+		<LI> Kiwi RObotics (Jason Oviedo)
+		<LI> 
+	</ul>
+	
 
 </div>
 
