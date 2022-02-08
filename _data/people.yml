@@ -549,6 +549,14 @@ ugrad-santiagoSerrano:
     display_name: Santiago de Jesús Serrano Ayarza
     role: ugrad-alum
 
+ugrad-carlosOrduz:
+    display_name: Carlos Andrés Orduz Pinilla
+    role: ugrad-alum
+
+ugrad-jesusCarcamo:
+    display_name: Jesús Orlando Cárcamo Posada
+    role: ugrad-alum
+
 ugrad-alejandroMorales:
     display_name: Julio Alejandro Morales Buitrago
     role: ugrad-alum
