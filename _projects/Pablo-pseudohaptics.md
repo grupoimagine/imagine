@@ -11,7 +11,7 @@ people:
 
 layout: project
 
-image: /img/projects/Pablo/Pseudohaptics.jpg
+image: /img/projects/Pablo/Pseudohaptics.PNG
 
 research_area: Mixed Realities
 
