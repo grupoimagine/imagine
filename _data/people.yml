@@ -214,7 +214,7 @@ ugrad-camiloUseche:
    display_name: Juan Camilo Useche
    role: ugrad-alum
    webpage: https://juancamilousecherodriguez.github.io/
-   image: /img/people/foto_juanUseche.jpg
+   image: /img/people/foto_JuanUseche.jpg
 
 ugrad-pabloSuarez:
     display_name: Pablo Andrés Suarez Murillo
@@ -406,6 +406,12 @@ master-vivianGomez:
     role: master
     webpage: https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/
     image: /img/people/foto_VivianGomez.png
+    
+master-sebastianCalvache:
+    display_name: Sebastian Calvache Mejia
+    role: master
+    webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
+    image: /img/people/foto_SebastianCalvache.png
 
 phd-alum-juanPabloReyes:
     display_name: Juan Pablo Reyes Gomez
