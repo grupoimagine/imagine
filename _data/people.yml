@@ -1,3 +1,5 @@
+#Faculty
+
 prof-josehernandez:
     display_name: José Tiberio Hernández
     role: faculty
@@ -26,20 +28,11 @@ prof-fernandodelarosa:
     image: /img/people/foto_FernandodelaRosa.jpg
     bio: Associate Professor
 
-prof-johnguerra:
-    display_name: John Alexis Guerra Gómez
-    webpage: http://johnguerra.co
-    github: john-guerra
-    role: collab
-    image: /img/people/foto_JohnGuerra_2015.jpg
-    bio: Assistant Professor
-
 prof-sebastiangil:
     display_name: Sebastian Gil Parga
     role: faculty
     webpage: https://sgilparga.wixsite.com/profile
     github: speregil
-    role: faculty
     image: /img/people/foto_SebastianGil.jpg
     bio: Instructor Professor
 
@@ -47,16 +40,10 @@ prof-nelsonAndresSanchez:
     display_name: Nelson Andres Sanchez O
     role: faculty
     webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
-    role: faculty
     image: /img/people/foto_NelsonAndresSanchez.jpg
     bio: Instructor Professor
 
-prof-carolinaHiguera:
-    display_name: Carolina Higuera Arias
-    role: collab
-    webpage: https://www.researchgate.net/profile/Carolina_Higuera2
-    image: /img/people/foto_CarolinaHiguera.jpg
-    bio: Instructor Professor
+#Ugrad-alum
 
 ugrad-alum-camiloescobarv:
     display_name: Camilo Andrés Escobar Velásquez
@@ -70,35 +57,11 @@ ugrad-alum-deisydiaz:
     display_name: Deisy Díaz Pérez
     role: ugrad-alum
 
-master-alum-davidMayorga:
-    display_name: David Ricardo Mayorga H.
-    role: master-alum
-
-# profx:
-#     display_name: Professor X
-#     webpage: http://en.wikipedia.org/wiki/Professor_X
-#     github: profx
-#     role: faculty
-#     image: /img/people/prof-x.png
-#     bio: Professor
-
-ugrad-carlosGonzalez:
-    display_name: Carlos Eduardo González Álvarez
-    role: ugrad
-    webpage: https://cegonzalv.github.io
-    image: /img/people/foto_CarlosGonzalez.png
-
 ugrad-camiloAlfonso:
     display_name: Camilo Alfonso
     role: ugrad-alum
     webpage: http://camiloalfonso.com
     image: /img/people/foto_camiloAlfonso.png
-
-ugrad-davidLaiton:
-    display_name: Andrés David Laiton
-    role: ugrad
-    webpage: https://daviddlaiton.github.io/
-    image: /img/people/foto_AndresLaiton.jpg
 
 ugrad-estebanDalel:
     display_name: Esteban Dalel Rueda
@@ -111,12 +74,6 @@ ugrad-felipeMartinez:
     role: ugrad-alum
     webpage: https://piazuelo.com/felipe
     image: /img/people/foto_felipeMartinez.jpg
-
-master-franciscoDurango:
-    display_name: Francisco Manuel Jose Durango Uribe
-    role: master
-    webpage: https://github.com/franciscoD1202
-    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.jpg
 
 ugrad-sebastianCardona:
     display_name: Juan Sebastián Cardona Muñoz
@@ -216,28 +173,6 @@ ugrad-camiloUseche:
    webpage: https://juancamilousecherodriguez.github.io/
    image: /img/people/foto_JuanUseche.jpg
 
-ugrad-pabloSuarez:
-    display_name: Pablo Andrés Suarez Murillo
-    role: ugrad
-    webpage: https://www.linkedin.com/in/pablo-andres-suarez/
-    image: /img/people/foto_pabloSuarez.png
-
-ugrad-danielPardo:
-    display_name: Daniel Andrés Pardo Chaves
-    role: ugrad
-    webpage: https://danielpardo.website/
-    image: /img/people/foto_danielPardo.png
-
-ugrad-andresLosada:
-    display_name: Andrés Felipe Losada Luna
-    role: ugrad
-    webpage: https://www.linkedin.com/in/andres-felipe-l-4a63a3104/
-    image: /img/people/foto_andresLosada.png
-
-ugrad-juanSanchez:
-    display_name: Juan Camilo Sanchez Pardo
-    role: ugrad
-
 ugrad-juanPalacios:
     display_name: Juan Sebastián Palacios
     role: ugrad-alum
@@ -273,32 +208,11 @@ ugrad-alum-cristianAmaya:
   webpage: https://cm-amaya.github.io/
   image: /img/people/foto_CristianAmaya.jpg
 
-phd-alum-johannGonzalez:
-   display_name: Johann Felipe González
-   role: master-alum
-   webpage: https://cil.csit.carleton.ca/staff-members/johann-felipe-gonzalez-avila/
-   image: /img/people/foto_JohannGonzalez.png
-
-phd-alum-diegorodriguez:
-    display_name: Diego Rodríguez
-    role: phd-alum
-    image: /img/people/foto_DiegoRodriguez.jpg
-
-phd-alum-juanCamiloIbarra:
-    display_name: Juan Camilo Ibarra
-    role: phd-alum
-
 ugrad-alum-nycholBazurto:
     display_name: Nychol Bazurto
     role: ugrad-alum
     webpage: http://nycholbazurto.me/
     image: /img/people/foto_nycholBazurto.jpeg
-
-master-alum-meiliVanegas:
-    display_name: Meili Vanegas
-    role: master-alum
-    webpage: https://mvanegas10.github.io/
-    image: /img/people/foto_meiliVanegas.png
 
 ugrad-alum-andresSandoval:
     display_name: Andrés Sandoval
@@ -349,11 +263,119 @@ ugrad-alum-joseRiano:
     webpage: https://www.linkedin.com/in/joalri/?originalSubdomain=co
     image: /img/people/foto_JoseRiano.PNG
 
-master-camiloMera:
-    display_name: David Camilo Mera David
-    role: master
-    webpage: https://about.me/cmera
-    image: /img/people/foto_camiloMera.jpg
+ugrad-alum-andresSandoval:
+    display_name: Andrés Sandoval
+    role: ugrad-alum
+    webpage: https://asandovaluniandes.github.io/portfolio/
+    image: /img/people/foto_andresSandoval.jpg
+
+ugrad-alum-danielCagua:
+    display_name: Daniel Cagua Ennis
+    role: ugrad-alum
+    webpage: https://co.linkedin.com/in/daniel-cagua-ennis-93aaa9154
+    image: /img/people/foto_DanielCagua.jpg
+
+ugrad-alum-omarPino:
+    display_name: Omar Leonardo Pino Reyes
+    role: ugrad-alum
+    image: /img/people/foto_OmarPino.jpg
+
+ugrad-alum-sergioMadera:
+    display_name: Sergio Madera
+    role: ugrad-alum
+    webpage: https://co.linkedin.com/in/sergio-madera?challengeId=AQH0B4taKbSh9QAAAXVRRwomRXfN6B3b-_yJyTYTUyZsG8DC7tAPSJvsRAHql2E2G5Ev91BIQhwabOS0a4831IWRaO1hune0ig&submissionId=355ee627-725f-4016-a2ea-c361f906d93b
+    image: /img/people/foto_SergioMadera.jfif
+
+ugrad-alum-rafaelForero:
+    display_name: RafaelForero
+    role: ugrad-alum
+    webpage: https://github.com/rafafor24
+
+ugrad-alum-juanCorrea:
+    display_name: Juan Diego Correa
+    image: /img/people/foto_JuanCorrea.PNG
+    role: ugrad-alum
+
+ugrad-alum-AndresBejarano:
+    display_name: Andrés Bejarano
+    image: /img/people/foto_AndresBejarano.PNG
+    role: ugrad-alum
+
+ugrad-alum-juanCamacho:
+    display_name: Juan Pablo Camacho
+    role: ugrad-alum
+    image: /img/people/foto_JuanCamacho.PNG
+
+ugrad-alum-joseRiano:
+    display_name: Jose Alejandro Riaño Riaño
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/joalri/?originalSubdomain=co
+    image: /img/people/foto_JoseRiano.PNG
+
+ugrad-julianMendoza:
+    display_name: Julian David Mendoza Ruiz
+    role: ugrad-alum
+
+ugrad-julioMorales:
+    display_name: Julio Alejandro Morales Buitrago
+    role: ugrad-alum
+
+ugrad-andresGonzalez:
+    display_name: Andrés Javier González Torres
+    role: ugrad-alum
+
+ugrad-santiagoSerrano:
+    display_name: Santiago de Jesús Serrano Ayarza
+    role: ugrad-alum
+
+ugrad-carlosOrduz:
+    display_name: Carlos Andrés Orduz Pinilla
+    role: ugrad-alum
+
+ugrad-jesusCarcamo:
+    display_name: Jesús Orlando Cárcamo Posada
+    role: ugrad-alum
+
+ugrad-alejandroMorales:
+    display_name: Julio Alejandro Morales Buitrago
+    role: ugrad-alum
+
+ugrad-andresJavierGonzalez:
+    display_name: Andrés Javier González Torres
+    role: ugrad-alum
+
+ugrad-martinAlvarez:
+    display_name: Martin Alvarez Gaviria
+    role: ugrad-alum
+    image: /img/people/foto_MartinAlvarez.jpg
+
+ugrad-nicolasBejar:
+    display_name: Nicolas Bejar Arambula
+    role: ugrad-alum
+    image: /img/people/foto_NicolasBejar.jpg
+
+ugrad-camiloAlfonso:
+    display_name: Camilo Alejandro Alfonso Sánchez
+    role: ugrad-alum
+    image: /img/people/foto_CamiloAlfonso.jpg
+
+#master-alum
+
+master-alum-davidMayorga:
+    display_name: David Ricardo Mayorga H.
+    role: master-alum
+
+phd-alum-johannGonzalez:
+   display_name: Johann Felipe González
+   role: master-alum
+   webpage: https://cil.csit.carleton.ca/staff-members/johann-felipe-gonzalez-avila/
+   image: /img/people/foto_JohannGonzalez.png
+
+master-alum-meiliVanegas:
+    display_name: Meili Vanegas
+    role: master-alum
+    webpage: https://mvanegas10.github.io/
+    image: /img/people/foto_meiliVanegas.png
 
 master-alum-fabianPenna:
     display_name: Fabian Camilo Peña
@@ -385,11 +407,110 @@ master-alum-fmedina:
     webpage: http://ingfabianmedina.epizy.com
     image: /img/people/foto_fmedina.jpg
 
-phd-joseDorado:
-    display_name: José Luis Dorado
-    role: phd-alum
-    webpage: https://www.researchgate.net/profile/Jose_Dorado5
-    image: /img/people/foto_JoseDorado.jpg
+master-alum-ricardoMendoza:
+    display_name: Ricardo A. Mendoza Leon
+    role: master-alum
+    webpage: http://www.ricardoMendoza.com/
+    # image: /img/people/foto_ricardoMendoza.jpg
+
+phd-alum-philippFeix:
+    display_name: Philipp Feix
+    role: master-alum
+    image: /img/people/foto_PhilippFeix.jpg
+
+master-alum-cynthiaOchoa:
+    display_name: Cynthia Ochoa
+    role: master-alum
+
+master-alum-EmilioAlvarado:
+    display_name: Emilio Andrés Alvarado Santis
+    role: master-alum
+    webpage: https://github.com/emilioalvarado
+    image: /img/people/foto_EmilioAlvarado.jpg
+
+master-alum-arelimoreno:
+    display_name: Areli Merari Moreno Fonseca
+    role: master-alum
+
+master-alum-jessikabuitrago:
+    display_name: Jessika Johana Buitrago Ramírez
+    webpage: https://github.com/Jessikabui
+    role: master-alum
+    image: /img/people/foto_jessikaBuitrago.jpg
+
+# profx:
+#     display_name: Professor X
+#     webpage: http://en.wikipedia.org/wiki/Professor_X
+#     github: profx
+#     role: faculty
+#     image: /img/people/prof-x.png
+#     bio: Professor
+
+#Ugrad
+
+ugrad-carlosGonzalez:
+    display_name: Carlos Eduardo González Álvarez
+    role: ugrad
+    webpage: https://cegonzalv.github.io
+    image: /img/people/foto_CarlosGonzalez.png
+
+ugrad-davidLaiton:
+    display_name: Andrés David Laiton
+    role: ugrad
+    webpage: https://daviddlaiton.github.io/
+    image: /img/people/foto_AndresLaiton.jpg
+
+ugrad-pabloSuarez:
+    display_name: Pablo Andrés Suarez Murillo
+    role: ugrad
+    webpage: https://www.linkedin.com/in/pablo-andres-suarez/
+    image: /img/people/foto_pabloSuarez.png
+
+ugrad-danielPardo:
+    display_name: Daniel Andrés Pardo Chaves
+    role: ugrad
+    webpage: https://danielpardo.website/
+    image: /img/people/foto_danielPardo.png
+
+ugrad-andresLosada:
+    display_name: Andrés Felipe Losada Luna
+    role: ugrad
+    webpage: https://www.linkedin.com/in/andres-felipe-l-4a63a3104/
+    image: /img/people/foto_andresLosada.png
+
+ugrad-juanSanchez:
+    display_name: Juan Camilo Sanchez Pardo
+    role: ugrad
+
+ugrad-andresSanchez:
+    display_name: Andrés Felipe Sánchez Rangel
+    role: ugrad
+
+ugrad-santiagoGamboa:
+    display_name: Santiago Esteban Gamboa
+    role: ugrad
+
+ugrad-nicolasFajardo:
+    display_name: Nicolás Fajardo Ramirez
+    role: ugrad
+
+ugrad-marioMedina:
+    display_name: Mario Felipe Medina Zamudio
+    role: ugrad
+
+#Master
+
+master-franciscoDurango:
+    display_name: Francisco Manuel Jose Durango Uribe
+    role: master
+    webpage: https://github.com/franciscoD1202
+    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.jpg
+
+master-camiloMera:
+    display_name: David Camilo Mera David
+    role: master
+    webpage: https://about.me/cmera
+    image: /img/people/foto_camiloMera.jpg
 
 master-davidCubillos:
     display_name: David Fernando Cubillos
@@ -413,52 +534,44 @@ master-sebastianCalvache:
     webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
     image: /img/people/foto_SebastianCalvache.png
 
+master-leonardobareno:
+    display_name: Leonardo Bareño
+    role: master
+    image: /img/people/foto_LeonardoBareno.png
+
+master-santiagoMunera:
+    display_name: Santiago Felipe Munera Dávila
+    role: master
+    
+#Phd-Alum
+
+phd-alum-diegorodriguez:
+    display_name: Diego Rodríguez
+    role: phd-alum
+    image: /img/people/foto_DiegoRodriguez.jpg
+
+phd-alum-juanCamiloIbarra:
+    display_name: Juan Camilo Ibarra
+    role: phd-alum
+
+phd-joseDorado:
+    display_name: José Luis Dorado
+    role: phd-alum
+    webpage: https://www.researchgate.net/profile/Jose_Dorado5
+    image: /img/people/foto_JoseDorado.jpg
+
 phd-alum-juanPabloReyes:
     display_name: Juan Pablo Reyes Gomez
     role: phd-alum
     webpage: http://www.juanPabloReyes.com/
     # image: /img/people/foto_juanPabloReyes.jpg
 
-master-alum-ricardoMendoza:
-    display_name: Ricardo A. Mendoza Leon
-    role: master-alum
-    webpage: http://www.ricardoMendoza.com/
-    # image: /img/people/foto_ricardoMendoza.jpg
-
-phd-alum-philippFeix:
-    display_name: Philipp Feix
-    role: master-alum
-    image: /img/people/foto_PhilippFeix.jpg
-
 phd-praimbaud:
     display_name: Pierre Raimbaud
     role: phd-alum
     image: /img/people/foto_PierreRaimbaud.jpg
 
-master-alum-cynthiaOchoa:
-    display_name: Cynthia Ochoa
-    role: master-alum
-
-master-alum-EmilioAlvarado:
-    display_name: Emilio Andrés Alvarado Santis
-    role: master-alum
-    webpage: https://github.com/emilioalvarado
-    image: /img/people/foto_EmilioAlvarado.jpg
-
-master-alum-arelimoreno:
-    display_name: Areli Merari Moreno Fonseca
-    role: master-alum
-
-master-alum-jessikabuitrago:
-    display_name: Jessika Johana Buitrago Ramírez
-    webpage: https://github.com/Jessikabui
-    role: master-alum
-    image: /img/people/foto_jessikaBuitrago.jpg
-
-master-leonardobareno:
-    display_name: Leonardo Bareño
-    role: master
-    image: /img/people/foto_LeonardoBareno.png
+#Collab
 
 collab-pabloArbelaez:
     display_name: Pablo Arbeláez
@@ -526,68 +639,21 @@ collab-audreyGirouard:
     webpage:  https://carleton.ca/hci/people/audrey-girouard/
     role: collab
     image: /img/people/foto_audreyGirouard.jpg
-    
-ugrad-andresSanchez:
-    display_name: Andrés Felipe Sánchez Rangel
-    role: ugrad
 
-ugrad-santiagoGamboa:
-    display_name: Santiago Esteban Gamboa
-    role: ugrad
+prof-johnguerra:
+    display_name: John Alexis Guerra Gómez
+    webpage: http://johnguerra.co
+    github: john-guerra
+    role: collab
+    image: /img/people/foto_JohnGuerra_2015.jpg
+    bio: Assistant Professor
 
-ugrad-nicolasFajardo:
-    display_name: Nicolás Fajardo Ramirez
-    role: ugrad
+prof-carolinaHiguera:
+    display_name: Carolina Higuera Arias
+    role: collab
+    webpage: https://www.researchgate.net/profile/Carolina_Higuera2
+    image: /img/people/foto_CarolinaHiguera.jpg
+    bio: Instructor Professor    
 
-ugrad-julianMendoza:
-    display_name: Julian David Mendoza Ruiz
-    role: ugrad-alum
 
-ugrad-julioMorales:
-    display_name: Julio Alejandro Morales Buitrago
-    role: ugrad-alum
-
-ugrad-andresGonzalez:
-    display_name: Andrés Javier González Torres
-    role: ugrad-alum
-
-ugrad-santiagoSerrano:
-    display_name: Santiago de Jesús Serrano Ayarza
-    role: ugrad-alum
-
-ugrad-carlosOrduz:
-    display_name: Carlos Andrés Orduz Pinilla
-    role: ugrad-alum
-
-ugrad-jesusCarcamo:
-    display_name: Jesús Orlando Cárcamo Posada
-    role: ugrad-alum
-
-ugrad-alejandroMorales:
-    display_name: Julio Alejandro Morales Buitrago
-    role: ugrad-alum
-
-ugrad-andresJavierGonzalez:
-    display_name: Andrés Javier González Torres
-    role: ugrad-alum
-
-ugrad-martinAlvarez:
-    display_name: Martin Alvarez Gaviria
-    role: ugrad-alum
-    image: /img/people/foto_MartinAlvarez.jpg
-
-ugrad-nicolasBejar:
-    display_name: Nicolas Bejar Arambula
-    role: ugrad-alum
-    image: /img/people/foto_NicolasBejar.jpg
-
-ugrad-camiloAlfonso:
-    display_name: Camilo Alejandro Alfonso Sánchez
-    role: ugrad-alum
-    image: /img/people/foto_CamiloAlfonso.jpg
-
-master-santiagoMunera:
-    display_name: Santiago Felipe Munera Dávila
-    role: master
-    
 
