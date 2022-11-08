@@ -498,6 +498,47 @@ ugrad-marioMedina:
     display_name: Mario Felipe Medina Zamudio
     role: ugrad
 
+ugrad-nicolasCalero:
+    display_name: Nicolás Esteban Calero Caycedo
+    role: ugrad
+    webpage: https://www.linkedin.com/in/nicolascalero
+    image: /img/people/foto_NicolasCalero.png
+
+ugrad-santiagoTangarife:
+    display_name: Santiago Tangarife Rincón
+    role: ugrad
+    webpage: https://www.linkedin.com/in/santiago-t-r-85ua
+    image: /img/people/foto_santiagoTangarife.png
+
+ugrad-DanielUseche:
+    display_name: Daniel Fernando Useche Rodríguez
+    role: ugrad
+
+ugrad-GabrielaCaballero:
+    display_name: Gabriela Caballero Durán
+    role: ugrad
+    image: /img/people/foto_gabrielaCaballero.png
+
+ugrad-AngelaJimenez:
+    display_name: Ángela Liliana Jiménez Flechas
+    role: ugrad
+    webpage: https://www.linkedin.com/in/angelajimenezf/
+    image: /img/people/foto_angelaJimenez.png
+
+ugrad-AndresRincon:
+    display_name: Andrés Felipe Rincón Pinzón
+    role: ugrad
+    webpage: https://www.linkedin.com/in/andresrinconp/
+    image: /img/people/foto_andresRincon.png
+
+ugrad-BrendaBarahona:
+    display_name: Brenda Catalina Barahona Pinilla
+    role: ugrad
+    webpage: linkedin.com/in/brenda-barahona 
+
+
+
+
 #Master
 
 master-franciscoDurango:
