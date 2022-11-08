@@ -43,6 +43,13 @@ prof-nelsonAndresSanchez:
     image: /img/people/foto_NelsonAndresSanchez.jpg
     bio: Instructor Professor
 
+prof-vivianGomez:
+    display_name: Vivian Gómez Cubillos
+    role: faculty
+    webpage: https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/
+    image: /img/people/foto_VivianGomez.png
+    bio: Instructor Professor
+
 #Ugrad-alum
 
 ugrad-alum-camiloescobarv:
@@ -508,7 +515,7 @@ ugrad-santiagoTangarife:
     display_name: Santiago Tangarife Rincón
     role: ugrad
     webpage: https://www.linkedin.com/in/santiago-t-r-85ua
-    image: /img/people/foto_santiagoTangarife.png
+    image: /img/people/foto_santiagoTangarife.jpg
 
 ugrad-DanielUseche:
     display_name: Daniel Fernando Useche Rodríguez
@@ -529,7 +536,7 @@ ugrad-AndresRincon:
     display_name: Andrés Felipe Rincón Pinzón
     role: ugrad
     webpage: https://www.linkedin.com/in/andresrinconp/
-    image: /img/people/foto_andresRincon.png
+    image: /img/people/foto_andresRincon.jpg
 
 ugrad-BrendaBarahona:
     display_name: Brenda Catalina Barahona Pinilla
@@ -562,12 +569,6 @@ master-kellyPenaranda:
     display_name: Kelly Katherine Peñaranda Rivera
     role: master
     image: /img/people/foto_KellyPenaranda.jpeg
-
-master-vivianGomez:
-    display_name: Vivian Gómez Cubillos
-    role: master
-    webpage: https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/
-    image: /img/people/foto_VivianGomez.png
     
 master-sebastianCalvache:
     display_name: Sebastian Calvache Mejia
