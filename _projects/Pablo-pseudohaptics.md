@@ -5,7 +5,7 @@ description:
 
 people:
   - prof-pablofigueroa
-  - prof-vivianGomez
+  - master-vivianGomez
   - master-sebastianCalvache
   - collab-markusTatzgen
 
