@@ -5,7 +5,7 @@ prof-josehernandez:
     role: faculty
     webpage: https://profesores.virtual.uniandes.edu.co/jhernand/en/inicio-en/
     image: /img/people/foto_JoseHernandez.jpg
-    bio: Associate Professor
+    bio: Honorary Professor
 
 prof-marcelahernandez:
     role: faculty
@@ -28,26 +28,11 @@ prof-fernandodelarosa:
     image: /img/people/foto_FernandodelaRosa.jpg
     bio: Associate Professor
 
-prof-sebastiangil:
-    display_name: Sebastian Gil Parga
-    role: faculty
-    webpage: https://sgilparga.wixsite.com/profile
-    github: speregil
-    image: /img/people/foto_SebastianGil.jpg
-    bio: Instructor Professor
-
-prof-nelsonAndresSanchez:
-    display_name: Nelson Andres Sanchez O
-    role: faculty
-    webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
-    image: /img/people/foto_NelsonAndresSanchez.jpg
-    bio: Instructor Professor
-
 prof-vivianGomez:
     display_name: Vivian Gómez Cubillos
     role: faculty
     webpage: https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/
-    image: /img/people/foto_VivianGomez.png
+    image: /img/people/foto_VivianGomez.JPG
     bio: Instructor Professor
 
 #Ugrad-alum
@@ -366,6 +351,52 @@ ugrad-camiloAlfonso:
     role: ugrad-alum
     image: /img/people/foto_CamiloAlfonso.jpg
 
+ugrad-carlosGonzalez:
+    display_name: Carlos Eduardo González Álvarez
+    role: ugrad-alum
+    webpage: https://cegonzalv.github.io
+    image: /img/people/foto_CarlosGonzalez.png
+
+ugrad-davidLaiton:
+    display_name: Andrés David Laiton
+    role: ugrad-alum
+    webpage: https://daviddlaiton.github.io/
+    image: /img/people/foto_AndresLaiton.jpg
+
+ugrad-pabloSuarez:
+    display_name: Pablo Andrés Suarez Murillo
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/pablo-andres-suarez/
+    image: /img/people/foto_pabloSuarez.png
+
+ugrad-danielPardo:
+    display_name: Daniel Andrés Pardo Chaves
+    role: ugrad-alum
+    webpage: https://danielpardo.website/
+    image: /img/people/foto_danielPardo.png
+
+ugrad-andresLosada:
+    display_name: Andrés Felipe Losada Luna
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/andres-felipe-l-4a63a3104/
+    image: /img/people/foto_andresLosada.png
+
+ugrad-juanSanchez:
+    display_name: Juan Camilo Sanchez Pardo
+    role: ugrad-alum
+
+ugrad-andresSanchez:
+    display_name: Andrés Felipe Sánchez Rangel
+    role: ugrad-alum
+
+ugrad-santiagoGamboa:
+    display_name: Santiago Esteban Gamboa
+    role: ugrad-alum
+
+ugrad-nicolasFajardo:
+    display_name: Nicolás Fajardo Ramirez
+    role: ugrad-alum
+
 #master-alum
 
 master-alum-davidMayorga:
@@ -445,6 +476,37 @@ master-alum-jessikabuitrago:
     role: master-alum
     image: /img/people/foto_jessikaBuitrago.jpg
 
+master-leonardobareno:
+    display_name: Leonardo Bareño
+    role: master-alum
+    image: /img/people/foto_LeonardoBareno.png
+
+master-santiagoMunera:
+    display_name: Santiago Felipe Munera Dávila
+    role: master-alum
+
+master-franciscoDurango:
+    display_name: Francisco Manuel Jose Durango Uribe
+    role: master-alum
+    webpage: https://github.com/franciscoD1202
+    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.jpg
+
+master-camiloMera:
+    display_name: David Camilo Mera David
+    role: master-alum
+    webpage: https://about.me/cmera
+    image: /img/people/foto_camiloMera.jpg
+
+master-davidCubillos:
+    display_name: David Fernando Cubillos
+    role: master-alum
+    image: /img/people/foto_DavidCubillos.PNG
+
+master-kellyPenaranda:
+    display_name: Kelly Katherine Peñaranda Rivera
+    role: master-alum
+    image: /img/people/foto_KellyPenaranda.jpeg
+
 # profx:
 #     display_name: Professor X
 #     webpage: http://en.wikipedia.org/wiki/Professor_X
@@ -454,52 +516,6 @@ master-alum-jessikabuitrago:
 #     bio: Professor
 
 #Ugrad
-
-ugrad-carlosGonzalez:
-    display_name: Carlos Eduardo González Álvarez
-    role: ugrad
-    webpage: https://cegonzalv.github.io
-    image: /img/people/foto_CarlosGonzalez.png
-
-ugrad-davidLaiton:
-    display_name: Andrés David Laiton
-    role: ugrad
-    webpage: https://daviddlaiton.github.io/
-    image: /img/people/foto_AndresLaiton.jpg
-
-ugrad-pabloSuarez:
-    display_name: Pablo Andrés Suarez Murillo
-    role: ugrad
-    webpage: https://www.linkedin.com/in/pablo-andres-suarez/
-    image: /img/people/foto_pabloSuarez.png
-
-ugrad-danielPardo:
-    display_name: Daniel Andrés Pardo Chaves
-    role: ugrad
-    webpage: https://danielpardo.website/
-    image: /img/people/foto_danielPardo.png
-
-ugrad-andresLosada:
-    display_name: Andrés Felipe Losada Luna
-    role: ugrad
-    webpage: https://www.linkedin.com/in/andres-felipe-l-4a63a3104/
-    image: /img/people/foto_andresLosada.png
-
-ugrad-juanSanchez:
-    display_name: Juan Camilo Sanchez Pardo
-    role: ugrad
-
-ugrad-andresSanchez:
-    display_name: Andrés Felipe Sánchez Rangel
-    role: ugrad
-
-ugrad-santiagoGamboa:
-    display_name: Santiago Esteban Gamboa
-    role: ugrad
-
-ugrad-nicolasFajardo:
-    display_name: Nicolás Fajardo Ramirez
-    role: ugrad
 
 ugrad-marioMedina:
     display_name: Mario Felipe Medina Zamudio
@@ -547,43 +563,12 @@ ugrad-BrendaBarahona:
 
 
 #Master
-
-master-franciscoDurango:
-    display_name: Francisco Manuel Jose Durango Uribe
-    role: master
-    webpage: https://github.com/franciscoD1202
-    image: /img/people/foto_FranciscoManuelJoseDurangoUribe.jpg
-
-master-camiloMera:
-    display_name: David Camilo Mera David
-    role: master
-    webpage: https://about.me/cmera
-    image: /img/people/foto_camiloMera.jpg
-
-master-davidCubillos:
-    display_name: David Fernando Cubillos
-    role: master
-    image: /img/people/foto_DavidCubillos.PNG
-
-master-kellyPenaranda:
-    display_name: Kelly Katherine Peñaranda Rivera
-    role: master
-    image: /img/people/foto_KellyPenaranda.jpeg
     
 master-sebastianCalvache:
     display_name: Sebastian Calvache Mejia
     role: master
     webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
     image: /img/people/foto_SebastianCalvache.png
-
-master-leonardobareno:
-    display_name: Leonardo Bareño
-    role: master
-    image: /img/people/foto_LeonardoBareno.png
-
-master-santiagoMunera:
-    display_name: Santiago Felipe Munera Dávila
-    role: master
     
 #Phd-Alum
 
@@ -696,6 +681,21 @@ prof-carolinaHiguera:
     webpage: https://www.researchgate.net/profile/Carolina_Higuera2
     image: /img/people/foto_CarolinaHiguera.jpg
     bio: Instructor Professor    
+
+prof-sebastiangil:
+    display_name: Sebastian Gil Parga
+    role: collab
+    webpage: https://sgilparga.wixsite.com/profile
+    github: speregil
+    image: /img/people/foto_SebastianGil.jpg
+    bio: Instructor Professor
+
+prof-nelsonAndresSanchez:
+    display_name: Nelson Andres Sanchez O
+    role: collab
+    webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
+    image: /img/people/foto_NelsonAndresSanchez.jpg
+    bio: Instructor Professor
 
 
 
