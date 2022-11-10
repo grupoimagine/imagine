@@ -5,7 +5,7 @@ description: This project consists in a visualization technique to summarize and
 
 people:
   - prof-johnguerra
-  - grad-meiliVanegas
+  - master-alum-meiliVanegas
 
 layout: project
 

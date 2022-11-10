@@ -5,7 +5,7 @@ description: Sampling, summarize and exploration of large table-based datasets t
 
 people:
   - prof-johnguerra
-  - grad-juanCamilo
+  - master-alum-juanCamilo
 
 layout: project
 

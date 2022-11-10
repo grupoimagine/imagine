@@ -6,7 +6,7 @@ description: The lack of a formal taxonomy for mobile devices interfaces for rob
 people:
   - prof-pablofigueroa
   - collab-martinjagersand
-  - grad-diegorodriguez
+  - phd-alum-diegorodriguez
 
 layout: project
 
