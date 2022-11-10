@@ -1,7 +1,7 @@
 ---
 title: JuegoPolitico
 
-description: 
+description:
 
 people:
   - prof-pablofigueroa
@@ -13,12 +13,9 @@ layout: project
 
 image: /img/projects/Pablo/project.PNG
 
-research_area: Videogames
+research_area: Video Games
 
 status: active
-
-
 ---
 
 Este proyecto grupal va a explorar la creación de un juego alrededor de los problemas políticos colombianos.
-

@@ -5,7 +5,7 @@ description: Consolidate web and mobile architectures, to deploy the existent co
 
 people:
   - prof-fernandodelarosa
-  - ugrad-samuelBaquero
+  - ugrad-alum-samuelBaquero
 
 layout: project
 

@@ -5,7 +5,7 @@ description: More than 1 in 10 babies are born preterm, affecting families all a
 
 people:
   - prof-josehernandez
-  - alum-deisydiaz
+  - ugrad-alum-deisydiaz
 
 layout: project
 
