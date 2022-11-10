@@ -5,7 +5,7 @@ description: The objective of this project is generate Immersive 3D Virtual Real
 
 people:
   - prof-pablofigueroa
-  - grad-fmedina
+  - master-alum-fmedina
 
 layout: project
 
@@ -14,8 +14,8 @@ image: /img/projects/Pablo/rooms360.png
 last-updated: 2018-09-11
 
 research_area: Mixed Realities
-
 ---
+
 <b>Platform:</b> Mobile | Android. <br>
 <b>VR Devices:</b> GearVR | Oculus Go | Cardboard. <br>
 <b>Game Engine:</b> Unity.<br>

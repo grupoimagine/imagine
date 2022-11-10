@@ -1,11 +1,11 @@
 ---
-title: Passive Haptics Training 
+title: Passive Haptics Training
 
 description: It aims to measure the learning of users by comparing the completion of tasks with Passive Haptics and traditional controls.
 
 people:
   - prof-pablofigueroa
-  - grad-fmedina
+  - master-alum-fmedina
 
 layout: project
 
@@ -14,8 +14,8 @@ image: /img/projects/Pablo/passivehaptics.jpg
 last-updated: 2019-02-11
 
 research_area: Mixed Realities
-
 ---
+
 <b>Platform:</b> Desktop <br>
 <b>Devices:</b> Oculus Rift, Logitech force 3D Joystick, Phidgets sensors. <br>
 <b>Game Engine:</b> Unity.<br>

@@ -5,7 +5,7 @@ description: Paper and Pencil project presents a sketch-based interface that all
 
 people:
   - prof-pablofigueroa
-  - grad-diegorodriguez
+  - phd-alum-diegorodriguez
 
 layout: project
 
@@ -16,7 +16,6 @@ image: /img/projects/Pablo/paperandpencil.png
 last-updated: 2015-12-31
 
 status: inactive
-
 ---
 
 Paper and Pencil project presents a sketch-based interface that allows any user to create a 3D animation from a pencil and paper sketch.

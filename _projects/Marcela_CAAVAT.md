@@ -5,7 +5,7 @@ description: We have developed an automatic VAT quantification technology using 
 
 people:
   - prof-marcelahernandez
-  - grad-ricardomendoza
+  - master-alum-ricardoMendoza
 
 layout: project
 

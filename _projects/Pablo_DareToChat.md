@@ -5,7 +5,7 @@ description: This project is built as a prototype of a serious videogame directe
 
 people:
   - prof-pablofigueroa
-  - grad-fmedina
+  - master-alum-fmedina
 
 layout: project
 
@@ -17,11 +17,13 @@ status: inactive
 
 research_area: Mixed Realities
 ---
+
 <b>Platform:</b> Mobile | Android. <br>
 <b>Game Engine:</b> CoronaSDK. <br>
 <b>Context:</b> Peace Process in Colombia.<br>
 
 This project is built as a prototype of a serious videogame directed to the construction of peace in the Colombian context. We ask participants to identify themselves with a made-up profile, and collaborate with people that are different to their profile. In this indirect way, we pursue the construction of peace by encouraging the conversation among people with different points of view. Preliminary user studies show that our prototype encourages collaboration among participants.
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/2eZZbDEcuIo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>First version of Dare To Chat</center>
 <br>
 

@@ -6,7 +6,7 @@ description: |
 
 people:
   - prof-pablofigueroa
-  - grad-diegorodriguez
+  - phd-alum-diegorodriguez
 
 layout: project
 

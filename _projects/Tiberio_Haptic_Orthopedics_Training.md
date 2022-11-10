@@ -4,8 +4,8 @@ title: Multimodal training simulator about orthopedics surgical reduction as res
 description: This project trains orthopedical resident students from FSFB to achieve the reduction process during the osteosynthesis in  the trauma surgery.
 
 people:
-  - prof-josehernandezt
-  - grad-davidMayorga
+  - prof-josehernandez
+  - master-alum-davidMayorga
 
 layout: project
 

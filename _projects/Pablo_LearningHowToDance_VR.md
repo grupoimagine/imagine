@@ -5,9 +5,9 @@ description: A VR environment to enable people to learn coreographies, based in 
 
 people:
   - prof-pablofigueroa
-  - grad-julianaMM
+  - master-alum-julianaMM
 
-layout: project  
+layout: project
 
 last-updated: 2018-02-19
 

@@ -5,7 +5,7 @@ description: Sandy brige is the name given to the architecture used in the intel
 
 people:
   - prof-pablofigueroa
-  - grad-diegorodriguez
+  - phd-alum-diegorodriguez
 
 layout: project
 

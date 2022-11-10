@@ -5,7 +5,7 @@ description: IFrom the measurements / dimensions of a place it is possible to ge
 
 people:
   - prof-pablofigueroa
-  - grad-fmedina
+  - master-alum-fmedina
 
 layout: project
 
@@ -14,8 +14,8 @@ image: /img/projects/Pablo/roomsvr.png
 last-updated: 2018-10-09
 
 research_area: Mixed Realities
-
 ---
+
 <b>Platform:</b> Mobile | Android. <br>
 <b>VR Devices:</b> GearVR | Oculus Go | Cardboard. <br>
 <b>Game Engine:</b> Unity.<br>

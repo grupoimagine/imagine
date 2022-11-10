@@ -6,7 +6,7 @@ description: The project is focused in the development of a perceptual calibrati
 people:
   - prof-pablofigueroa
   - prof-josehernandez
-  - grad-joseDorado  
+  - phd-joseDorado
 
 layout: project
 
@@ -15,8 +15,8 @@ last-updated: 2018-02-21
 research_area: Mixed Realities
 
 image: /img/projects/Pablo/VR_SpatialPerformance.png
-
 ---
+
 b>Platform:</b> Mobile | Desktop. <br>
 <b>Devices:</b> GearVR | Oculus Rift | HTC Vive <br>
 <b>Game Engine:</b> Unity.<br>
@@ -28,5 +28,3 @@ We propose a novel method to improve the spatial performance on VR displays. Stu
 <b> Demo of size constancy test </b><br>
 <iframe width="560" height="315" src="https://youtu.be/RvdMAa9-Nvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
-
-
