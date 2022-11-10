@@ -28,7 +28,7 @@ prof-fernandodelarosa:
     image: /img/people/foto_FernandodelaRosa.jpg
     bio: Associate Professor
 
-prof-vivianGomez:
+master-vivianGomez:
     display_name: Vivian Gómez Cubillos
     role: faculty
     webpage: https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/
@@ -696,6 +696,12 @@ prof-nelsonAndresSanchez:
     webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
     image: /img/people/foto_NelsonAndresSanchez.jpg
     bio: Instructor Professor
+
+collab-markusTatzgen:
+    display_name: Markus Tatzgen
+    role: collab
+    image: f/img/people/foto_markusTatzgen.jpg
+
 
 
 
