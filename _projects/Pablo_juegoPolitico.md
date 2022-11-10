@@ -11,8 +11,6 @@ people:
 
 layout: project
 
-image: /img/projects/Pablo/project.PNG
-
 research_area: Video Games
 
 status: active
