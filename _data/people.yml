@@ -159,12 +159,6 @@ ugrad-zulmaCastaneda:
     webpage: https://zlcastaneda10.github.io/
     image: /img/people/foto_ZulmaCastanieda.jpg
 
-ugrad-camiloUseche:
-   display_name: Juan Camilo Useche
-   role: ugrad-alum
-   webpage: https://juancamilousecherodriguez.github.io/
-   image: /img/people/foto_JuanUseche.jpg
-
 ugrad-juanPalacios:
     display_name: Juan Sebastián Palacios
     role: ugrad-alum
@@ -559,9 +553,6 @@ ugrad-BrendaBarahona:
     role: ugrad
     webpage: linkedin.com/in/brenda-barahona 
 
-
-
-
 #Master
     
 master-sebastianCalvache:
@@ -569,6 +560,12 @@ master-sebastianCalvache:
     role: master
     webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
     image: /img/people/foto_SebastianCalvache.png
+
+ugrad-camiloUseche:
+   display_name: Juan Camilo Useche
+   role: master
+   webpage: https://juancamilousecherodriguez.github.io/
+   image: /img/people/foto_JuanUseche.jpg
     
 #Phd-Alum
 
@@ -630,6 +627,7 @@ collab-dariocorreal:
     display_name: Prof Dario Correal
     webpage: https://profesores.virtual.uniandes.edu.co/~dcorreal/dokuwiki/doku.php
     role: collab
+    image: https://profesores.virtual.uniandes.edu.co/~dcorreal/dokuwiki/lib/exe/fetch.php?cache=&media=dcorreal.jpg
 
 collab-eliecergutierrez:
     display_name: Prof Eliecer Gutierrez
