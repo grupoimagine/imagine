@@ -5,6 +5,7 @@ description: Proyecto de grado en el que se quiere crear un escenario nuevo basa
 
 people:
   - ugrad-GabrielaCaballero
+  - prof-pablofigueroa
 
 layout: project
 

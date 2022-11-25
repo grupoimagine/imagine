@@ -7,6 +7,7 @@ people:
   - ugrad-nicolasCalero
   - ugrad-santiagoTangarife
   - ugrad-DanielUseche
+  - prof-pablofigueroa
 
 layout: project
 

@@ -5,6 +5,7 @@ description: Harmony es una herramienta de aprendizaje de drumps con Unity, Ocul
 people:
   - ugrad-AngelaJimenez
   - ugrad-AndresRincon
+  - prof-pablofigueroa
 
 layout: project
 
