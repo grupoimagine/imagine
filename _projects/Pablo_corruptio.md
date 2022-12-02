@@ -1,7 +1,7 @@
 ---
 title: Corruptio
 
-description:
+description: Mediante un proceso de desarrollo ágil de software se produjo un videojuego capaz de retratar dificultades asociadas al mandato público. Se sitúa al jugador como dirigente de una ciudad que responde visualmente a sus decisiones. A través de asignaciones de presupuesto y decisiones dilemáticas aleatorias, este deberá buscará el balance entre la satisfacción de seis sectores claves para su territorio.
 
 people:
   - prof-pablofigueroa
