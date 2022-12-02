@@ -18,4 +18,5 @@ last-updated: 2019-02-04
 
 This project presents a training tool for orthopedic resident students using haptic devices giving another aproximation to achieve the reduction process during the osteosynthesis in the trauma surgery. Due the haptic interaction the resident can acquire the motor habilities to decrease the gap bone segments which could be need more time to get them in the real surgical room.
 
-[Github repository](https://github.com/damayor/OrtopediaHaptica)
+[Juego](https://paco-democratico-devs.itch.io/corruptio-mvp-2)
+[GitHub Repository](https://github.com/nfajardor/corruptio)

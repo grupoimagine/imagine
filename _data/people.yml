@@ -382,14 +382,17 @@ ugrad-juanSanchez:
 ugrad-andresSanchez:
     display_name: Andrés Felipe Sánchez Rangel
     role: ugrad-alum
+    image: /img/people/foto_andresSanchez.jpeg
 
 ugrad-santiagoGamboa:
     display_name: Santiago Esteban Gamboa
     role: ugrad-alum
+    image: /img/people/foto_santiagoGamboa.jpeg
 
 ugrad-nicolasFajardo:
     display_name: Nicolás Fajardo Ramirez
     role: ugrad-alum
+    image: /img/people/foto_nicolasFajardo.jpeg
 
 #master-alum
 
