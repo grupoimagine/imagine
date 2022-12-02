@@ -394,6 +394,15 @@ ugrad-nicolasFajardo:
     role: ugrad-alum
     image: /img/people/foto_nicolasFajardo.jpeg
 
+ugrad-juanPabloOtalora:
+    display_name: Juan Pablo Otálora Romero
+    role: ugrad-alum
+
+ugrad-eliasNegrete:
+    display_name: Elias David Negrete Salgado
+    role: ugrad-alum
+
+
 #master-alum
 
 master-alum-davidMayorga:
