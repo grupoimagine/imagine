@@ -25,4 +25,5 @@ Mediante un proceso de desarrollo ágil de software se produjo un videojuego cap
 </center>
 
 [Juego](https://paco-democratico-devs.itch.io/corruptio-mvp-2)
+
 [GitHub Repository](https://github.com/nfajardor/corruptio)
