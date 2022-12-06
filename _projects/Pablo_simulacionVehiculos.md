@@ -11,7 +11,7 @@ layout: project
 
 image: /img/projects/Pablo/simulacionesVehiculosAutonomos.png
 
-research_area: work in progress
+research_area: Visual Analytics
 
 status: inactive
 ---
