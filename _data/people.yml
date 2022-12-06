@@ -580,6 +580,10 @@ ugrad-lauraForero:
     display_name: Laura Isabella Forero Camacho
     role: ugrad
 
+vhanessaCardona:
+    display_name: Vhanessa Cardona Cañaveral
+    role: ugrad
+
 #Master
     
 master-sebastianCalvache:
@@ -593,6 +597,10 @@ ugrad-camiloUseche:
    role: master
    webpage: https://juancamilousecherodriguez.github.io/
    image: /img/people/foto_JuanUseche.jpg
+
+davidOviedo:
+    display_name: David Alberto Oviedo De La Torre
+    role: master
     
 #Phd-Alum
 
