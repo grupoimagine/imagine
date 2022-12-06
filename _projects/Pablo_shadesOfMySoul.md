@@ -24,4 +24,5 @@ El proyecto de grado se basa en la idea de conformar un equipo de diseño de vid
 </center>
 
 [Juego](https://juanotalora.itch.io/shades-of-my-soul)
+
 [GitHub Repository](https://github.com/JuanOtalora/Shades)
