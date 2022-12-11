@@ -1,7 +1,7 @@
 ---
-title: Ambiente VR para practicar presentaciones en público
+title: Ambiente VR para preparar presentaciones en público
 
-description: Proyecto de grado en el que se quiere crear un escenario nuevo basado en el SW de realidad virtual de Jean Luc y hacer pruebas con respecto a este. Además, teniendo en cuenta los resultados de las pruebas modificar aspectos de sistema, el entorno u animación, entre otros.
+description: Desarrollar un ambiente en realidad virtual, similar a un salon de clases, para ayudar a preparar presentaciones en público a partir del proyecto STAGE desarrollado anteriormente por la Universidad de Würzburg en Unreal Engine.
 
 people:
   - ugrad-GabrielaCaballero
@@ -9,13 +9,15 @@ people:
 
 layout: project
 
-image: /img/projects/presentacionesVR.png
+image: /img/projects/Pablo/presentacionesVR.png
 
 research_area: Mixed Realities
 
-last-updated: 2022-11-22
-
-status: inactive
+last-updated: 2022-12-11
 ---
 
-Proyecto de grado en el que se quiere crear un escenario nuevo basado en el SW de realidad virtual de Jean Luc y hacer pruebas con respecto a este. Además, teniendo en cuenta los resultados de las pruebas modificar aspectos de sistema, el entorno u animación, entre otros.
+Desarrollar un ambiente en realidad virtual, similar a un salon de clases, para ayudar a preparar presentaciones en público a partir del proyecto STAGE desarrollado anteriormente por la Universidad de Würzburg en Unreal Engine.
+
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nDPP78MRtxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
