@@ -584,6 +584,21 @@ vhanessaCardona:
     display_name: Vhanessa Cardona Cañaveral
     role: ugrad
 
+gabrielSerna:
+    display_name: Gabriel Santiago Serna
+    role: ugrad
+    image: /img/people/foto_gabrielSerna.jfif
+
+camiloOtalora: 
+    display_name: Camilo Otálora 
+    role: ugrad
+    image: /img/people/foto_camiloOtalora.jfif
+
+arturoRubio:
+    display_name: Arturo Rubio
+    role: ugrad
+    image: /img/people/foto_arturoRubio.jfif
+
 #Master
     
 master-sebastianCalvache:
