@@ -343,7 +343,7 @@ ugrad-nicolasBejar:
 ugrad-camiloAlfonso:
     display_name: Camilo Alejandro Alfonso Sánchez
     role: ugrad-alum
-    image: /img/people/foto_CamiloAlfonso.png
+    image: /img/people/foto_camiloAlfonso.png
 
 ugrad-carlosGonzalez:
     display_name: Carlos Eduardo González Álvarez
@@ -598,6 +598,12 @@ arturoRubio:
     display_name: Arturo Rubio
     role: ugrad
     image: /img/people/foto_arturoRubio.jfif
+
+abelArismendy:
+    display_name: Abel Arismendy
+    role: ugrad
+    image: /img/people/foto_abelArismendy.jpeg
+    webpage: https://github.com/abelarismendy/
 
 #Master
     
