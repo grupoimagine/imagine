@@ -605,6 +605,12 @@ abelArismendy:
     image: /img/people/foto_abelArismendy.jpeg
     webpage: https://github.com/abelarismendy/
 
+juanEsteban:
+    display_name: Juan Esteban Rodriguez
+    role: ugrad
+    image: /img/people/foto_juanEsteban.jpg
+
+
 #Master
     
 master-sebastianCalvache:
@@ -623,6 +629,21 @@ davidOviedo:
     display_name: David Alberto Oviedo De La Torre
     role: master
     
+
+valentinaRozo:
+    display_name: Valentina Rozo
+    role: master
+
+valentinaUribe:
+    display_name: Valentina Uribe
+    role: master
+
+joseLuna:
+    display_name: José Luna
+    role: master
+    image: /img/people/foto_joseLuna.jpeg
+
+
 #Phd-Alum
 
 phd-alum-diegorodriguez:
