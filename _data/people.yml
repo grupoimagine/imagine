@@ -38,6 +38,11 @@ prof-vivianGomez:
 
 #Ugrad (undergraduate students)
 
+ugrad-alum-arturoRubio:
+    display_name: Arturo Rubio
+    role: ugrad
+    image: /img/people/foto_arturoRubio.jfif
+
 ugrad-abelArismendy:
     display_name: Abel Arismendy
     role: ugrad
@@ -57,7 +62,6 @@ master-sebastianCalvache:
     role: master
     webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
     image: /img/people/foto_SebastianCalvache.png
-
 
 master-davidOviedo:
     display_name: David Alberto Oviedo De La Torre
@@ -79,11 +83,7 @@ master-joseLuna:
 
 
 #Collab (collaborators)
-master-alum-camiloUseche:
-    display_name: Juan Camilo Useche
-    role: master-alum
-    webpage: https://juancamilousecherodriguez.github.io/
-    image: /img/people/foto_juanUseche.jpg
+
 collab-pabloArbelaez:
     display_name: Pablo Arbeláez
     role: collab
@@ -250,10 +250,10 @@ ugrad-alum-camiloOtalora:
     role: ugrad-alum
     image: /img/people/foto_camiloOtalora.jfif
 
-ugrad-alum-arturoRubio:
-    display_name: Arturo Rubio
-    role: ugrad-alum
-    image: /img/people/foto_arturoRubio.jfif
+# ugrad-alum-arturoRubio:
+#     display_name: Arturo Rubio
+#     role: ugrad-alum
+#     image: /img/people/foto_arturoRubio.jfif
 
 ugrad-alum-camiloescobarv:
     display_name: Camilo Andrés Escobar Velásquez
@@ -636,6 +636,12 @@ ugrad-juanSebastianArciniegas:
 
 
 #master-alum (former students)
+
+master-alum-camiloUseche:
+    display_name: Juan Camilo Useche
+    role: master-alum
+    webpage: https://juancamilousecherodriguez.github.io/
+    image: /img/people/foto_juanUseche.jpg
 
 master-alum-camiloUseche:
     display_name: Juan Camilo Useche
