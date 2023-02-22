@@ -38,71 +38,6 @@ prof-vivianGomez:
 
 #Ugrad (undergraduate students)
 
-ugrad-marioMedina:
-    display_name: Mario Felipe Medina Zamudio
-    role: ugrad
-
-ugrad-nicolasCalero:
-    display_name: Nicolás Esteban Calero Caycedo
-    role: ugrad
-    webpage: https://www.linkedin.com/in/nicolascalero
-    image: /img/people/foto_nicolasCalero.png
-
-ugrad-santiagoTangarife:
-    display_name: Santiago Tangarife Rincón
-    role: ugrad
-    webpage: https://www.linkedin.com/in/santiago-t-r-85ua
-    image: /img/people/foto_santiagoTangarife.jpg
-
-ugrad-DanielUseche:
-    display_name: Daniel Fernando Useche Rodríguez
-    role: ugrad
-
-ugrad-GabrielaCaballero:
-    display_name: Gabriela Caballero Durán
-    role: ugrad
-    image: /img/people/foto_gabrielaCaballero.png
-
-ugrad-AngelaJimenez:
-    display_name: Ángela Liliana Jiménez Flechas
-    role: ugrad
-    webpage: https://www.linkedin.com/in/angelajimenezf/
-    image: /img/people/foto_angelaJimenez.png
-
-ugrad-AndresRincon:
-    display_name: Andrés Felipe Rincón Pinzón
-    role: ugrad
-    webpage: https://www.linkedin.com/in/andresrinconp/
-    image: /img/people/foto_andresRincon.jpg
-
-ugrad-BrendaBarahona:
-    display_name: Brenda Catalina Barahona Pinilla
-    role: ugrad
-    webpage: linkedin.com/in/brenda-barahona 
-
-ugrad-lauraForero:
-    display_name: Laura Isabella Forero Camacho
-    role: ugrad
-
-ugrad-vhanessaCardona:
-    display_name: Vhanessa Cardona Cañaveral
-    role: ugrad
-
-ugrad-gabrielSerna:
-    display_name: Gabriel Santiago Serna
-    role: ugrad
-    image: /img/people/foto_gabrielSerna.jfif
-
-ugrad-camiloOtalora:
-    display_name: Camilo Otálora
-    role: ugrad
-    image: /img/people/foto_camiloOtalora.jfif
-
-ugrad-arturoRubio:
-    display_name: Arturo Rubio
-    role: ugrad
-    image: /img/people/foto_arturoRubio.jfif
-
 ugrad-abelArismendy:
     display_name: Abel Arismendy
     role: ugrad
@@ -255,6 +190,71 @@ collab-markusTatzgen:
 # ------------------ FORMER MEMBERS ------------------ #
 
 #Ugrad-alum (former students)
+
+ugrad-alum-marioMedina:
+    display_name: Mario Felipe Medina Zamudio
+    role: ugrad-alum
+
+ugrad-alum-nicolasCalero:
+    display_name: Nicolás Esteban Calero Caycedo
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/nicolascalero
+    image: /img/people/foto_nicolasCalero.png
+
+ugrad-alum-santiagoTangarife:
+    display_name: Santiago Tangarife Rincón
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/santiago-t-r-85ua
+    image: /img/people/foto_santiagoTangarife.jpg
+
+ugrad-alum-DanielUseche:
+    display_name: Daniel Fernando Useche Rodríguez
+    role: ugrad-alum
+
+ugrad-alum-GabrielaCaballero:
+    display_name: Gabriela Caballero Durán
+    role: ugrad-alum
+    image: /img/people/foto_gabrielaCaballero.png
+
+ugrad-alum-AngelaJimenez:
+    display_name: Ángela Liliana Jiménez Flechas
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/angelajimenezf/
+    image: /img/people/foto_angelaJimenez.png
+
+ugrad-alum-AndresRincon:
+    display_name: Andrés Felipe Rincón Pinzón
+    role: ugrad-alum
+    webpage: https://www.linkedin.com/in/andresrinconp/
+    image: /img/people/foto_andresRincon.jpg
+
+ugrad-alum-BrendaBarahona:
+    display_name: Brenda Catalina Barahona Pinilla
+    role: ugrad-alum
+    webpage: linkedin.com/in/brenda-barahona
+
+ugrad-alum-lauraForero:
+    display_name: Laura Isabella Forero Camacho
+    role: ugrad-alum
+
+ugrad-alum-vhanessaCardona:
+    display_name: Vhanessa Cardona Cañaveral
+    role: ugrad-alum
+
+ugrad-alum-gabrielSerna:
+    display_name: Gabriel Santiago Serna
+    role: ugrad-alum
+    image: /img/people/foto_gabrielSerna.jfif
+
+ugrad-alum-camiloOtalora:
+    display_name: Camilo Otálora
+    role: ugrad-alum
+    image: /img/people/foto_camiloOtalora.jfif
+
+ugrad-alum-arturoRubio:
+    display_name: Arturo Rubio
+    role: ugrad-alum
+    image: /img/people/foto_arturoRubio.jfif
 
 ugrad-alum-camiloescobarv:
     display_name: Camilo Andrés Escobar Velásquez
