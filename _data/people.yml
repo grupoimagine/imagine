@@ -38,7 +38,7 @@ prof-vivianGomez:
 
 #Ugrad (undergraduate students)
 
-ugrad-alum-arturoRubio:
+ugrad-arturoRubio:
     display_name: Arturo Rubio
     role: ugrad
     image: /img/people/foto_arturoRubio.jfif
@@ -309,77 +309,77 @@ ugrad-alum-deisydiaz:
     display_name: Deisy Díaz Pérez
     role: ugrad-alum
 
-ugrad-camiloAlfonso:
+ugrad-alum-camiloAlfonso:
     display_name: Camilo Alfonso
     role: ugrad-alum
     webpage: http://camiloalfonso.com
     image: /img/people/foto_camiloAlfonso.png
 
-ugrad-estebanDalel:
+ugrad-alum-estebanDalel:
     display_name: Esteban Dalel Rueda
     role: ugrad-alum
     webpage: https://estebandalelr.co/
     image: /img/people/foto_estebanDalel.jpg
 
-ugrad-felipeMartinez:
+ugrad-alum-felipeMartinez:
     display_name: Felipe Martinez Piazuelo
     role: ugrad-alum
     webpage: https://piazuelo.com/felipe
     image: /img/people/foto_felipeMartinez.jpg
 
-ugrad-sebastianCardona:
+ugrad-alum-sebastianCardona:
     display_name: Juan Sebastián Cardona Muñoz
     role: ugrad-alum
     webpage: https://jscardona12.github.io/MyWebPage/
     image: /img/people/foto_sebastianCardona.jpg
 
-ugrad-luisMesa:
+ugrad-alum-luisMesa:
     display_name: Luis Mesa
     role: ugrad-alum
     webpage: http://luis-mesa.me
     image: /img/people/foto_luisMesa.jpg
 
-ugrad-nicolarChavez:
+ugrad-alum-nicolarChavez:
     display_name: Nicolas Chaves
     role: ugrad-alum
     image: /img/people/foto_nicolarChavez.jpeg
 
-ugrad-antonioDeLaVega:
+ugrad-alum-antonioDeLaVega:
     display_name: Antonio de la Vega
     role: ugrad-alum
     webpage: https://adelavegaf.github.io/
     image: /img/people/foto_antonioDeLaVega.jpeg
 
-ugrad-davidDelgado:
+ugrad-alum-davidDelgado:
     display_name: David Mauricio Delgado Ruiz
     role: ugrad-alum
     webpage: https://nonameable.github.io
     image: /img/people/foto_davidDelgado.jpg
 
-ugrad-juanGuillermo:
+ugrad-alum-juanGuillermo:
     display_name: Juan Guillermo Murillo Castillo
     role: ugrad-alum
     webpage: http://juanmurillo.me/
     image: /img/people/foto_juanGuillermo.png
 
-ugrad-rogeliogarcia:
+ugrad-alum-rogeliogarcia:
     display_name: Rogelio Garcia
     role: ugrad-alum
     image: /img/people/foto_RogelioGarcia.jpeg
 
-ugrad-margaritaGomez:
+ugrad-alum-margaritaGomez:
     display_name: Margarita Gómez Ballén
     role: ugrad-alum
     webpage: https://margaritagomez.github.io/
     image: /img/people/foto_margaritaGomez.PNG
 
-ugrad-camilaGarcia:
+ugrad-alum-camilaGarcia:
     display_name: Camila García Hernández
     role: ugrad-alum
     webpage: http://cgarciahdez.github.io/
     image: /img/people/foto_camilaGarcia.png
 
-ugrad-santiagoBeltran:
+ugrad-alum-santiagoBeltran:
     display_name: Santiago Beltran
     role: ugrad-alum
     webpage: https://webdevuniandes.github.io./sbeltran10/
@@ -396,7 +396,7 @@ ugrad-alum-joanTorres:
     webpage: https://github.com/JDTorresP/
     image: /img/people/foto_joanTorres.jpg
 
-ugrad-eduardoCabello:
+ugrad-alum-eduardoCabello:
     display_name: Eduardo Arturo Cabello Agüero
     role: ugrad-alum
     webpage: https://eacabello10.github.io/
@@ -407,35 +407,35 @@ ugrad-alum-ricardoGonzalez:
     role: ugrad-alum
     image: /img/people/Foto_RicardoGonzalez.jpg
 
-ugrad-camiloZambrano:
+ugrad-alum-camiloZambrano:
     display_name: Camilo Zambrano Votto
     role: ugrad-alum
     webpage: https://cawolfkreo.github.io/
     image: /img/people/foto_CamiloZambrano.jpg
 
-ugrad-zulmaCastaneda:
+ugrad-alum-zulmaCastaneda:
     display_name: Zulma Lorena Castañeda Hidalgo
     role: ugrad-alum
     webpage: https://zlcastaneda10.github.io/
     image: /img/people/foto_ZulmaCastanieda.jpg
 
-ugrad-juanPalacios:
+ugrad-alum-juanPalacios:
     display_name: Juan Sebastián Palacios
     role: ugrad-alum
 
-ugrad-julianAmezquita:
+ugrad-alum-julianAmezquita:
     display_name: Julian Stiven Amezquita Moreno
     role: ugrad-alum
 
-ugrad-luisGarcia:
+ugrad-alum-luisGarcia:
     display_name: Luis Jose García Mojica
     role: ugrad-alum
 
-ugrad-luisaRodriguez:
+ugrad-alum-luisaRodriguez:
     display_name: Luisa Mariana Rodriguez Cifuentes
     role: ugrad-alum
 
-ugrad-andresDaza:
+ugrad-alum-andresDaza:
     display_name: Andres Felipe Daza Diaz
     role: ugrad-alum
 
@@ -558,119 +558,119 @@ ugrad-alum-joseRiano:
     webpage: https://www.linkedin.com/in/joalri/?originalSubdomain=co
     image: /img/people/foto_JoseRiano.PNG
 
-ugrad-julianMendoza:
+ugrad-alum-julianMendoza:
     display_name: Julian David Mendoza Ruiz
     role: ugrad-alum
 
-ugrad-julioMorales:
+ugrad-alum-julioMorales:
     display_name: Julio Alejandro Morales Buitrago
     role: ugrad-alum
 
-ugrad-andresGonzalez:
+ugrad-alum-andresGonzalez:
     display_name: Andrés Javier González Torres
     role: ugrad-alum
 
-ugrad-santiagoSerrano:
+ugrad-alum-santiagoSerrano:
     display_name: Santiago de Jesús Serrano Ayarza
     role: ugrad-alum
 
-ugrad-carlosOrduz:
+ugrad-alum-carlosOrduz:
     display_name: Carlos Andrés Orduz Pinilla
     role: ugrad-alum
 
-ugrad-jesusCarcamo:
+ugrad-alum-jesusCarcamo:
     display_name: Jesús Orlando Cárcamo Posada
     role: ugrad-alum
 
-ugrad-alejandroMorales:
+ugrad-alum-alejandroMorales:
     display_name: Julio Alejandro Morales Buitrago
     role: ugrad-alum
 
-ugrad-andresJavierGonzalez:
+ugrad-alum-andresJavierGonzalez:
     display_name: Andrés Javier González Torres
     role: ugrad-alum
 
-ugrad-martinAlvarez:
+ugrad-alum-martinAlvarez:
     display_name: Martin Alvarez Gaviria
     role: ugrad-alum
     image: /img/people/foto_MartinAlvarez.jpg
 
-ugrad-nicolasBejar:
+ugrad-alum-nicolasBejar:
     display_name: Nicolas Bejar Arambula
     role: ugrad-alum
     image: /img/people/foto_NicolasBejar.jpg
 
-ugrad-camiloAlfonso:
+ugrad-alum-camiloAlfonso:
     display_name: Camilo Alejandro Alfonso Sánchez
     role: ugrad-alum
     image: /img/people/foto_camiloAlfonso.png
 
-ugrad-carlosGonzalez:
+ugrad-alum-carlosGonzalez:
     display_name: Carlos Eduardo González Álvarez
     role: ugrad-alum
     webpage: https://cegonzalv.github.io
     image: /img/people/foto_CarlosGonzalez.png
 
-ugrad-davidLaiton:
+ugrad-alum-davidLaiton:
     display_name: Andrés David Laiton
     role: ugrad-alum
     webpage: https://daviddlaiton.github.io/
     image: /img/people/foto_AndresLaiton.jpg
 
-ugrad-pabloSuarez:
+ugrad-alum-pabloSuarez:
     display_name: Pablo Andrés Suarez Murillo
     role: ugrad-alum
     webpage: https://www.linkedin.com/in/pablo-andres-suarez/
     image: /img/people/foto_pabloSuarez.png
 
-ugrad-danielPardo:
+ugrad-alum-danielPardo:
     display_name: Daniel Andrés Pardo Chaves
     role: ugrad-alum
     webpage: https://danielpardo.website/
     image: /img/people/foto_danielPardo.png
 
-ugrad-andresLosada:
+ugrad-alum-andresLosada:
     display_name: Andrés Felipe Losada Luna
     role: ugrad-alum
     webpage: https://www.linkedin.com/in/andres-felipe-l-4a63a3104/
     image: /img/people/foto_andresLosada.png
 
-ugrad-juanSanchez:
+ugrad-alum-juanSanchez:
     display_name: Juan Camilo Sanchez Pardo
     role: ugrad-alum
 
-ugrad-andresSanchez:
+ugrad-alum-andresSanchez:
     display_name: Andrés Felipe Sánchez Rangel
     role: ugrad-alum
     image: /img/people/foto_andresSanchez.jpeg
 
-ugrad-santiagoGamboa:
+ugrad-alum-santiagoGamboa:
     display_name: Santiago Esteban Gamboa
     role: ugrad-alum
     image: /img/people/foto_santiagoGamboa.jpeg
 
-ugrad-nicolasFajardo:
+ugrad-alum-nicolasFajardo:
     display_name: Nicolás Fajardo Ramirez
     role: ugrad-alum
     image: /img/people/foto_nicolasFajardo.jpeg
 
-ugrad-juanPabloOtalora:
+ugrad-alum-juanPabloOtalora:
     display_name: Juan Pablo Otálora Romero
     role: ugrad-alum
 
-ugrad-eliasNegrete:
+ugrad-alum-eliasNegrete:
     display_name: Elias David Negrete Salgado
     role: ugrad-alum
 
-ugrad-yesidBejarano:
+ugrad-alum-yesidBejarano:
     display_name: Yesid Alexander Bejarano
     role: ugrad-alum
 
-ugrad-juanManuelMuñoz:
+ugrad-alum-juanManuelMuñoz:
     display_name: Juan Manuel Muñoz
     role: ugrad-alum
 
-ugrad-juanSebastianArciniegas:
+ugrad-alum-juanSebastianArciniegas:
     display_name: Juan Sebastián Arciniegas
     role: ugrad-alum
 
@@ -768,33 +768,33 @@ master-alum-jessikabuitrago:
     role: master-alum
     image: /img/people/foto_jessikaBuitrago.jpg
 
-master-leonardobareno:
+master-alum-leonardobareno:
     display_name: Leonardo Bareño
     role: master-alum
     image: /img/people/foto_LeonardoBareno.png
 
-master-santiagoMunera:
+master-alum-santiagoMunera:
     display_name: Santiago Felipe Munera Dávila
     role: master-alum
 
-master-franciscoDurango:
+master-alum-franciscoDurango:
     display_name: Francisco Manuel Jose Durango Uribe
     role: master-alum
     webpage: https://github.com/franciscoD1202
     image: /img/people/foto_FranciscoManuelJoseDurangoUribe.jpg
 
-master-camiloMera:
+master-alum-camiloMera:
     display_name: David Camilo Mera David
     role: master-alum
     webpage: https://about.me/cmera
     image: /img/people/foto_camiloMera.jpg
 
-master-davidCubillos:
+master-alum-davidCubillos:
     display_name: David Fernando Cubillos
     role: master-alum
     image: /img/people/foto_DavidCubillos.PNG
 
-master-kellyPenaranda:
+master-alum-kellyPenaranda:
     display_name: Kelly Katherine Peñaranda Rivera
     role: master-alum
     image: /img/people/foto_KellyPenaranda.jpeg
