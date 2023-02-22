@@ -54,6 +54,45 @@ ugrad-juanEsteban:
     role: ugrad
     image: /img/people/foto_juanEsteban.jpg
 
+ugrad-juanBautista:
+    display_name: Juan David Bautista Parra
+    role: ugrad
+
+ugrad-gabrielaCagua:
+    display_name: Gabriela Cagua Bolivar
+    role: ugrad
+
+ugrad-melissaContreras:
+    display_name: Melissa Lizeth Contreras Rojas
+    role: ugrad
+
+ugrad-camiloFalla:
+    display_name: Camilo Falla Moreno
+    role: ugrad
+
+ugrad-juanSantiago:
+    display_name: Juan Andrés Santiago Vasques
+    role: ugrad
+
+ugrad-carlosSilva:
+    display_name: Carlos Enrique Silva Lascarro
+    role: ugrad
+
+ugrad-mariaGarcia:
+    display_name: Maria Valentina Garcia Alvarado
+    role: ugrad
+
+ugrad-leonardoMejia:
+    display_name: Leonardo Mejia
+    role: ugrad
+
+ugrad-estebanOrtiz:
+    display_name: Esteban Emmanuel Ortiz Morales
+    role: ugrad
+
+ugrad-juanRivera:
+    display_name: Juan Manuel Rivera Lopez
+    role: ugrad
 
 #Master (graduate students)
 
@@ -80,6 +119,9 @@ master-joseLuna:
     role: master
     image: /img/people/foto_joseLuna.jpeg
 
+master-juanPalacios:
+    display_name: Juan Felipe Palacios Sanchez
+    role: master
 
 
 #Collab (collaborators)
