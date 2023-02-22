@@ -28,14 +28,233 @@ prof-fernandodelarosa:
     image: /img/people/foto_FernandodelaRosa.jpg
     bio: Associate Professor
 
-master-vivianGomez:
+prof-vivianGomez:
     display_name: Vivian Gómez Cubillos
     role: faculty
     webpage: https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/
     image: /img/people/foto_VivianGomez.JPG
     bio: Instructor Professor
 
-#Ugrad-alum
+
+#Ugrad (undergraduate students)
+
+ugrad-marioMedina:
+    display_name: Mario Felipe Medina Zamudio
+    role: ugrad
+
+ugrad-nicolasCalero:
+    display_name: Nicolás Esteban Calero Caycedo
+    role: ugrad
+    webpage: https://www.linkedin.com/in/nicolascalero
+    image: /img/people/foto_nicolasCalero.png
+
+ugrad-santiagoTangarife:
+    display_name: Santiago Tangarife Rincón
+    role: ugrad
+    webpage: https://www.linkedin.com/in/santiago-t-r-85ua
+    image: /img/people/foto_santiagoTangarife.jpg
+
+ugrad-DanielUseche:
+    display_name: Daniel Fernando Useche Rodríguez
+    role: ugrad
+
+ugrad-GabrielaCaballero:
+    display_name: Gabriela Caballero Durán
+    role: ugrad
+    image: /img/people/foto_gabrielaCaballero.png
+
+ugrad-AngelaJimenez:
+    display_name: Ángela Liliana Jiménez Flechas
+    role: ugrad
+    webpage: https://www.linkedin.com/in/angelajimenezf/
+    image: /img/people/foto_angelaJimenez.png
+
+ugrad-AndresRincon:
+    display_name: Andrés Felipe Rincón Pinzón
+    role: ugrad
+    webpage: https://www.linkedin.com/in/andresrinconp/
+    image: /img/people/foto_andresRincon.jpg
+
+ugrad-BrendaBarahona:
+    display_name: Brenda Catalina Barahona Pinilla
+    role: ugrad
+    webpage: linkedin.com/in/brenda-barahona 
+
+ugrad-lauraForero:
+    display_name: Laura Isabella Forero Camacho
+    role: ugrad
+
+ugrad-vhanessaCardona:
+    display_name: Vhanessa Cardona Cañaveral
+    role: ugrad
+
+ugrad-gabrielSerna:
+    display_name: Gabriel Santiago Serna
+    role: ugrad
+    image: /img/people/foto_gabrielSerna.jfif
+
+ugrad-camiloOtalora:
+    display_name: Camilo Otálora
+    role: ugrad
+    image: /img/people/foto_camiloOtalora.jfif
+
+ugrad-arturoRubio:
+    display_name: Arturo Rubio
+    role: ugrad
+    image: /img/people/foto_arturoRubio.jfif
+
+ugrad-abelArismendy:
+    display_name: Abel Arismendy
+    role: ugrad
+    image: /img/people/foto_abelArismendy.jpeg
+    webpage: https://github.com/abelarismendy/
+
+ugrad-juanEsteban:
+    display_name: Juan Esteban Rodriguez
+    role: ugrad
+    image: /img/people/foto_juanEsteban.jpg
+
+
+#Master (graduate students)
+
+master-sebastianCalvache:
+    display_name: Sebastian Calvache Mejia
+    role: master
+    webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
+    image: /img/people/foto_SebastianCalvache.png
+
+master-camiloUseche:
+    display_name: Juan Camilo Useche
+    role: master
+    webpage: https://juancamilousecherodriguez.github.io/
+    image: /img/people/foto_JuanUseche.jpg
+
+master-davidOviedo:
+    display_name: David Alberto Oviedo De La Torre
+    role: master
+
+master-valentinaRozo:
+    display_name: Valentina Rozo
+    role: master
+
+master-valentinaUribe:
+    display_name: Valentina Uribe
+    role: master
+
+master-joseLuna:
+    display_name: José Luna
+    role: master
+    image: /img/people/foto_joseLuna.jpeg
+
+
+
+#Collab (collaborators)
+
+collab-pabloArbelaez:
+    display_name: Pablo Arbeláez
+    role: collab
+
+collab-martinjagersand:
+    display_name: Prof Martin Jagersand
+    webpage: https://webdocs.cs.ualberta.ca/~jag/
+    role: collab
+
+collab-dominiqueFouchez:
+    display_name: Dominique Fouchez
+    webpage: https://annuaire.in2p3.fr/agents/Y249Rm91Y2hleiBEb21pbmlxdWUsb3U9cGVvcGxlLGRjPWluMnAzLGRjPWZy/show
+    role: collab
+    image: /img/people/foto_dominiqueFouchez.jpg
+
+collab-johnPuentes:
+    display_name: John Puentes
+    webpage: https://www.telecom-bretagne.eu/studies/msc/professors/puentes/
+    role: collab
+
+collab-maciejOrkisz:
+    display_name: Maciej Orkisz
+    webpage: https://www.creatis.insa-lyon.fr/site7/en/users/orkisz
+    role: collab
+    image: /img/people/foto_maciejOrkisz.png
+
+collab-dariocorreal:
+    display_name: Prof Dario Correal
+    webpage: https://profesores.virtual.uniandes.edu.co/~dcorreal/dokuwiki/doku.php
+    role: collab
+
+collab-eliecergutierrez:
+    display_name: Prof Eliecer Gutierrez
+    webpage: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000145025
+    role: collab
+
+collab-oscargonzalez:
+    display_name: Prof Oscar González
+    webpage: https://profesores.virtual.uniandes.edu.co/blog/disc_profesores/o-gonza1/
+    role: collab
+    image: https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg
+
+collab-robTeather:
+    display_name: Rob Teather
+    webpage: http://www.csit.carleton.ca/~rteather/
+    role: collab
+    image: http://www.csit.carleton.ca/~rteather/images/rt.jpg
+
+collab-FredericMerienn:
+    display_name: Frédéric Merienn
+    webpage: http://www.linkedin.com/pub/fr%C3%A9d%C3%A9ric-merienne/14/586/451
+    role: collab
+    image: http://institutimage.ensam.eu/medias/photo/frederic-merienne_1418637891333-jpg
+
+collab-johnCMcClelland:
+    display_name: John C McClelland
+    webpage:  https://cil.csit.carleton.ca/staff-members/john-mcclelland/
+    role: collab
+    image: /img/people/foto_johnCMcClelland.png
+
+collab-audreyGirouard:
+    display_name: Audrey Girouard
+    webpage:  https://carleton.ca/hci/people/audrey-girouard/
+    role: collab
+    image: /img/people/foto_audreyGirouard.jpg
+
+prof-johnguerra:
+    display_name: John Alexis Guerra Gómez
+    webpage: http://johnguerra.co
+    github: john-guerra
+    role: collab
+    image: /img/people/foto_JohnGuerra_2015.jpg
+    bio: Assistant Professor
+
+prof-carolinaHiguera:
+    display_name: Carolina Higuera Arias
+    role: collab
+    webpage: https://www.researchgate.net/profile/Carolina_Higuera2
+    image: /img/people/foto_CarolinaHiguera.jpg
+    bio: Instructor Professor
+
+prof-sebastiangil:
+    display_name: Sebastian Gil Parga
+    role: collab
+    webpage: https://sgilparga.wixsite.com/profile
+    github: speregil
+    image: /img/people/foto_SebastianGil.jpg
+    bio: Instructor Professor
+
+prof-nelsonAndresSanchez:
+    display_name: Nelson Andres Sanchez O
+    role: collab
+    webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
+    image: /img/people/foto_NelsonAndresSanchez.jpg
+    bio: Instructor Professor
+
+collab-markusTatzgen:
+    display_name: Markus Tatzgen
+    role: collab
+    image: /img/people/foto_markusTatzgen.jpg
+
+
+# ------------------ FORMER MEMBERS ------------------ #
+
+#Ugrad-alum (former students)
 
 ugrad-alum-camiloescobarv:
     display_name: Camilo Andrés Escobar Velásquez
@@ -180,19 +399,19 @@ ugrad-andresDaza:
     role: ugrad-alum
 
 ugrad-alum-gabrielMartinez:
-   display_name: Gabriel Martínez Zarama
-   role: ugrad-alum
+    display_name: Gabriel Martínez Zarama
+    role: ugrad-alum
 
 ugrad-alum-samuelBaquero:
-  display_name: Samuel Baquero Merchán
-  role: ugrad-alum
-  webpage: https://samuelbaquero.github.io/MyWebsite/
+    display_name: Samuel Baquero Merchán
+    role: ugrad-alum
+    webpage: https://samuelbaquero.github.io/MyWebsite/
 
 ugrad-alum-cristianAmaya:
-  display_name: Cristian M. Amaya
-  role: ugrad-alum
-  webpage: https://cm-amaya.github.io/
-  image: /img/people/foto_CristianAmaya.jpg
+    display_name: Cristian M. Amaya
+    role: ugrad-alum
+    webpage: https://cm-amaya.github.io/
+    image: /img/people/foto_CristianAmaya.jpg
 
 ugrad-alum-nycholBazurto:
     display_name: Nychol Bazurto
@@ -402,29 +621,32 @@ ugrad-eliasNegrete:
     display_name: Elias David Negrete Salgado
     role: ugrad-alum
 
-yesidBejarano:
+ugrad-yesidBejarano:
     display_name: Yesid Alexander Bejarano
+    role: ugrad-alum
 
-juanManuelMuñoz:
+ugrad-juanManuelMuñoz:
     display_name: Juan Manuel Muñoz
+    role: ugrad-alum
 
-juanSebastianArciniegas: 
+ugrad-juanSebastianArciniegas:
     display_name: Juan Sebastián Arciniegas
+    role: ugrad-alum
 
 
 
 
-#master-alum
+#master-alum (former students)
 
 master-alum-davidMayorga:
     display_name: David Ricardo Mayorga H.
     role: master-alum
 
-phd-alum-johannGonzalez:
-   display_name: Johann Felipe González
-   role: master-alum
-   webpage: https://cil.csit.carleton.ca/staff-members/johann-felipe-gonzalez-avila/
-   image: /img/people/foto_JohannGonzalez.png
+master-alum-johannGonzalez:
+    display_name: Johann Felipe González
+    role: master-alum
+    webpage: https://cil.csit.carleton.ca/staff-members/johann-felipe-gonzalez-avila/
+    image: /img/people/foto_JohannGonzalez.png
 
 master-alum-meiliVanegas:
     display_name: Meili Vanegas
@@ -468,7 +690,7 @@ master-alum-ricardoMendoza:
     webpage: http://www.ricardoMendoza.com/
     # image: /img/people/foto_ricardoMendoza.jpg
 
-phd-alum-philippFeix:
+master-alum-philippFeix:
     display_name: Philipp Feix
     role: master-alum
     image: /img/people/foto_PhilippFeix.jpg
@@ -524,127 +746,8 @@ master-kellyPenaranda:
     role: master-alum
     image: /img/people/foto_KellyPenaranda.jpeg
 
-# profx:
-#     display_name: Professor X
-#     webpage: http://en.wikipedia.org/wiki/Professor_X
-#     github: profx
-#     role: faculty
-#     image: /img/people/prof-x.png
-#     bio: Professor
 
-#Ugrad
-
-ugrad-marioMedina:
-    display_name: Mario Felipe Medina Zamudio
-    role: ugrad
-
-ugrad-nicolasCalero:
-    display_name: Nicolás Esteban Calero Caycedo
-    role: ugrad
-    webpage: https://www.linkedin.com/in/nicolascalero
-    image: /img/people/foto_nicolasCalero.png
-
-ugrad-santiagoTangarife:
-    display_name: Santiago Tangarife Rincón
-    role: ugrad
-    webpage: https://www.linkedin.com/in/santiago-t-r-85ua
-    image: /img/people/foto_santiagoTangarife.jpg
-
-ugrad-DanielUseche:
-    display_name: Daniel Fernando Useche Rodríguez
-    role: ugrad
-
-ugrad-GabrielaCaballero:
-    display_name: Gabriela Caballero Durán
-    role: ugrad
-    image: /img/people/foto_gabrielaCaballero.png
-
-ugrad-AngelaJimenez:
-    display_name: Ángela Liliana Jiménez Flechas
-    role: ugrad
-    webpage: https://www.linkedin.com/in/angelajimenezf/
-    image: /img/people/foto_angelaJimenez.png
-
-ugrad-AndresRincon:
-    display_name: Andrés Felipe Rincón Pinzón
-    role: ugrad
-    webpage: https://www.linkedin.com/in/andresrinconp/
-    image: /img/people/foto_andresRincon.jpg
-
-ugrad-BrendaBarahona:
-    display_name: Brenda Catalina Barahona Pinilla
-    role: ugrad
-    webpage: linkedin.com/in/brenda-barahona 
-
-ugrad-lauraForero:
-    display_name: Laura Isabella Forero Camacho
-    role: ugrad
-
-vhanessaCardona:
-    display_name: Vhanessa Cardona Cañaveral
-    role: ugrad
-
-gabrielSerna:
-    display_name: Gabriel Santiago Serna
-    role: ugrad
-    image: /img/people/foto_gabrielSerna.jfif
-
-camiloOtalora: 
-    display_name: Camilo Otálora 
-    role: ugrad
-    image: /img/people/foto_camiloOtalora.jfif
-
-arturoRubio:
-    display_name: Arturo Rubio
-    role: ugrad
-    image: /img/people/foto_arturoRubio.jfif
-
-abelArismendy:
-    display_name: Abel Arismendy
-    role: ugrad
-    image: /img/people/foto_abelArismendy.jpeg
-    webpage: https://github.com/abelarismendy/
-
-juanEsteban:
-    display_name: Juan Esteban Rodriguez
-    role: ugrad
-    image: /img/people/foto_juanEsteban.jpg
-
-
-#Master
-    
-master-sebastianCalvache:
-    display_name: Sebastian Calvache Mejia
-    role: master
-    webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
-    image: /img/people/foto_SebastianCalvache.png
-
-ugrad-camiloUseche:
-   display_name: Juan Camilo Useche
-   role: master
-   webpage: https://juancamilousecherodriguez.github.io/
-   image: /img/people/foto_JuanUseche.jpg
-
-davidOviedo:
-    display_name: David Alberto Oviedo De La Torre
-    role: master
-    
-
-valentinaRozo:
-    display_name: Valentina Rozo
-    role: master
-
-valentinaUribe:
-    display_name: Valentina Uribe
-    role: master
-
-joseLuna:
-    display_name: José Luna
-    role: master
-    image: /img/people/foto_joseLuna.jpeg
-
-
-#Phd-Alum
+#Phd-Alum (former PhD students)
 
 phd-alum-diegorodriguez:
     display_name: Diego Rodríguez
@@ -655,7 +758,7 @@ phd-alum-juanCamiloIbarra:
     display_name: Juan Camilo Ibarra
     role: phd-alum
 
-phd-joseDorado:
+phd-alum-joseDorado:
     display_name: José Luis Dorado
     role: phd-alum
     webpage: https://www.researchgate.net/profile/Jose_Dorado5
@@ -667,114 +770,7 @@ phd-alum-juanPabloReyes:
     webpage: http://www.juanPabloReyes.com/
     # image: /img/people/foto_juanPabloReyes.jpg
 
-phd-praimbaud:
+phd-alum-praimbaud:
     display_name: Pierre Raimbaud
     role: phd-alum
     image: /img/people/foto_PierreRaimbaud.jpg
-
-#Collab
-
-collab-pabloArbelaez:
-    display_name: Pablo Arbeláez
-    role: collab
-
-collab-martinjagersand:
-    display_name: Prof Martin Jagersand
-    webpage: https://webdocs.cs.ualberta.ca/~jag/
-    role: collab
-
-collab-dominiqueFouchez:
-    display_name: Dominique Fouchez
-    webpage: https://annuaire.in2p3.fr/agents/Y249Rm91Y2hleiBEb21pbmlxdWUsb3U9cGVvcGxlLGRjPWluMnAzLGRjPWZy/show
-    role: collab
-    image: /img/people/foto_dominiqueFouchez.jpg
-
-collab-johnPuentes:
-    display_name: John Puentes
-    webpage: https://www.telecom-bretagne.eu/studies/msc/professors/puentes/
-    role: collab
-
-collab-maciejOrkisz:
-    display_name: Maciej Orkisz
-    webpage: https://www.creatis.insa-lyon.fr/site7/en/users/orkisz
-    role: collab
-    image: /img/people/foto_maciejOrkisz.png
-
-collab-dariocorreal:
-    display_name: Prof Dario Correal
-    webpage: https://profesores.virtual.uniandes.edu.co/~dcorreal/dokuwiki/doku.php
-    role: collab
-
-collab-eliecergutierrez:
-    display_name: Prof Eliecer Gutierrez
-    webpage: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000145025
-    role: collab
-
-collab-oscargonzalez:
-    display_name: Prof Oscar González
-    webpage: https://profesores.virtual.uniandes.edu.co/blog/disc_profesores/o-gonza1/
-    role: collab
-    image: https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg
-
-collab-robTeather:
-    display_name: Rob Teather
-    webpage: http://www.csit.carleton.ca/~rteather/
-    role: collab
-    image: http://www.csit.carleton.ca/~rteather/images/rt.jpg
-
-collab-FredericMerienn:
-    display_name: Frédéric Merienn
-    webpage: http://www.linkedin.com/pub/fr%C3%A9d%C3%A9ric-merienne/14/586/451
-    role: collab
-    image: http://institutimage.ensam.eu/medias/photo/frederic-merienne_1418637891333-jpg
-
-collab-johnCMcClelland:
-    display_name: John C McClelland
-    webpage:  https://cil.csit.carleton.ca/staff-members/john-mcclelland/
-    role: collab
-    image: /img/people/foto_johnCMcClelland.png
-
-collab-audreyGirouard:
-    display_name: Audrey Girouard
-    webpage:  https://carleton.ca/hci/people/audrey-girouard/
-    role: collab
-    image: /img/people/foto_audreyGirouard.jpg
-
-prof-johnguerra:
-    display_name: John Alexis Guerra Gómez
-    webpage: http://johnguerra.co
-    github: john-guerra
-    role: collab
-    image: /img/people/foto_JohnGuerra_2015.jpg
-    bio: Assistant Professor
-
-prof-carolinaHiguera:
-    display_name: Carolina Higuera Arias
-    role: collab
-    webpage: https://www.researchgate.net/profile/Carolina_Higuera2
-    image: /img/people/foto_CarolinaHiguera.jpg
-    bio: Instructor Professor    
-
-prof-sebastiangil:
-    display_name: Sebastian Gil Parga
-    role: collab
-    webpage: https://sgilparga.wixsite.com/profile
-    github: speregil
-    image: /img/people/foto_SebastianGil.jpg
-    bio: Instructor Professor
-
-prof-nelsonAndresSanchez:
-    display_name: Nelson Andres Sanchez O
-    role: collab
-    webpage: https://www.researchgate.net/profile/Nelson_Sanchez_Otalora
-    image: /img/people/foto_NelsonAndresSanchez.jpg
-    bio: Instructor Professor
-
-collab-markusTatzgen:
-    display_name: Markus Tatzgen
-    role: collab
-    image: /img/people/foto_markusTatzgen.jpg
-
-
-
-
