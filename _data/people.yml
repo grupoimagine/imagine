@@ -58,11 +58,6 @@ master-sebastianCalvache:
     webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
     image: /img/people/foto_SebastianCalvache.png
 
-master-camiloUseche:
-    display_name: Juan Camilo Useche
-    role: master
-    webpage: https://juancamilousecherodriguez.github.io/
-    image: /img/people/foto_juanUseche.jpg
 
 master-davidOviedo:
     display_name: David Alberto Oviedo De La Torre
@@ -84,7 +79,11 @@ master-joseLuna:
 
 
 #Collab (collaborators)
-
+master-alum-camiloUseche:
+    display_name: Juan Camilo Useche
+    role: master-alum
+    webpage: https://juancamilousecherodriguez.github.io/
+    image: /img/people/foto_juanUseche.jpg
 collab-pabloArbelaez:
     display_name: Pablo Arbeláez
     role: collab
@@ -637,6 +636,12 @@ ugrad-juanSebastianArciniegas:
 
 
 #master-alum (former students)
+
+master-alum-camiloUseche:
+    display_name: Juan Camilo Useche
+    role: master-alum
+    webpage: https://juancamilousecherodriguez.github.io/
+    image: /img/people/foto_juanUseche.jpg
 
 master-alum-davidMayorga:
     display_name: David Ricardo Mayorga H.
