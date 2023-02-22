@@ -21,21 +21,21 @@ roles:
     name: Graduate Students
   - key: ugrad
     name: Undergraduate Students
-  - key: alum
-    name: Alumni
+  # - key: alum
+  #   name: Alumni
   - key: ugrad-alum
     name: Past Undergraduate Students
   - key: collab
     name: Collaborators
-  - key: phd
-    name: PHD Students
+  # - key: phd
+  #   name: PHD Students
   - key: master
     name: Masters Students
   - key: phd-alum
     name: Past PHD Students
   - key: master-alum
     name: Past Masters Students
-  
+
 
 
 defaults:
