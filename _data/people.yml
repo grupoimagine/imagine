@@ -124,6 +124,18 @@ master-juanPalacios:
     role: master
 
 
+#PhD (doctoral students)
+
+# MODIFY _config.yml TO ADD THIS SECTION
+
+# format:
+# phd-<name>:
+#     display_name: <name>
+#     role: phd
+#     webpage: <webpage>
+#     image: <image>
+
+
 #Collab (collaborators)
 
 collab-pabloArbelaez:
