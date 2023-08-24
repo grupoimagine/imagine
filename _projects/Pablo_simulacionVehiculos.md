@@ -5,7 +5,7 @@ description: Este proyecto de grado consiste en el diseño e implementación de 
 
 people:
   - prof-pablofigueroa
-  - ugrad-lauraForero
+  - ugrad-alum-lauraForero
 
 layout: project
 

@@ -5,7 +5,7 @@ description: Fix web applications accessibility problems without writing any cod
 
 people:
   - prof-johnguerra
-  - ugrad-antonioDeLaVega
+  - ugrad-alum-antonioDeLaVega
 
 layout: project  
 

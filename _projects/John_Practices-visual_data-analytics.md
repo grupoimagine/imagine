@@ -5,7 +5,7 @@ description: Figure out the best practices for architecting applications to anal
 
 people:
   - prof-johnguerra
-  - master-camiloMera
+  - master-alum-camiloMera
 
 layout: project
 

@@ -5,7 +5,7 @@ description: Navigation, summarization and exploration of large repositories of 
 
 people:
   - prof-johnguerra
-  - ugrad-juanGuillermo
+  - ugrad-alum-juanGuillermo
 
 layout: project
 

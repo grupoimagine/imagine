@@ -5,7 +5,7 @@ description: In this project we analyze visitor's behavior in an interactive vir
 
 people:
   - prof-pablofigueroa
-  - master-leonardobareno
+  - master-alum-leonardobareno
 
 layout: project
 

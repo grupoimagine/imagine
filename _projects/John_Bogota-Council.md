@@ -5,7 +5,7 @@ description: Develop a tool for the Secretary of Government of Bogota, to store 
 
 people:
   - prof-johnguerra
-  - ugrad-estebanDalel
+  - ugrad-alum-estebanDalel
   
 research area: Visual Analytics
 

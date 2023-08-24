@@ -5,8 +5,8 @@ description: The goal of this project is to create global, regional and local re
 
 people:
   - prof-marcelahernandez
-  - ugrad-margaritaGomez
-  - ugrad-camilaGarcia
+  - ugrad-alum-margaritaGomez
+  - ugrad-alum-camilaGarcia
   - collab-maciejOrkisz
 
 layout: project

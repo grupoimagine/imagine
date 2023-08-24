@@ -5,7 +5,7 @@ description: Develop a UI framework which will allow users to navigate big photo
 
 people:
   - prof-johnguerra
-  - ugrad-camiloAlfonso
+  - ugrad-alum-camiloAlfonso
 
 layout: project
 

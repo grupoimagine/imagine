@@ -5,9 +5,9 @@ description: El proyecto busca apoyar el aprendizaje de las medidas de prevenci√
 
 people:
   - prof-pablofigueroa
-  - ugrad-camiloZambrano
-  - ugrad-zulmaCastaneda
-  - ugrad-camiloUseche
+  - ugrad-alum-camiloZambrano
+  - ugrad-alum-zulmaCastaneda
+  - ugrad-alum-camiloUseche
 
 image: /img/projects/Pablo/earthquakeSimulator.PNG
 

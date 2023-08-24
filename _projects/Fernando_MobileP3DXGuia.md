@@ -5,7 +5,7 @@ description: Desarrollo de un sistema de planeación de rutas que permita hacer 
 
 people:
   - prof-fernandodelarosa
-  - master-franciscoDurango
+  - master-alum-franciscoDurango
 
 layout: project
 

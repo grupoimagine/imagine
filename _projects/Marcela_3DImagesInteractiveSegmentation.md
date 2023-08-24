@@ -5,7 +5,7 @@ description: Develop an interactive segmentation tool to either manually segment
 
 people:
   - prof-marcelahernandez
-  - ugrad-rogeliogarcia
+  - ugrad-alum-rogeliogarcia
 
 layout: project
 

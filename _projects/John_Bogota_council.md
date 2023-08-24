@@ -5,7 +5,7 @@ description: This project will be focused in making the data flow to the correct
 
 people:
   - prof-johnguerra
-  - ugrad-estebanDalel
+  - ugrad-alum-estebanDalel
 
 layout: project  
 

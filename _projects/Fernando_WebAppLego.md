@@ -5,7 +5,7 @@ description: Define a base software architecture for the creation of web applica
 
 people:
   - prof-fernandodelarosa
-  - ugrad-eduardoCabello
+  - ugrad-alum-eduardoCabello
 
 layout: project
 
