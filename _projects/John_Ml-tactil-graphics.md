@@ -5,7 +5,7 @@ description: Develop a machine learning tool able to identify the object present
 
 people:
   - prof-johnguerra
-  - ugrad-felipeMartinez
+  - ugrad-alum-felipeMartinez
 
 layout: project  
 

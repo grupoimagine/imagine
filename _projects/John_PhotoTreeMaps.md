@@ -5,7 +5,7 @@ description: Treemaps are an important and useful tool to navigate and visualize
 
 people:
   - prof-johnguerra
-  - ugrad-luisMesa
+  - ugrad-alum-luisMesa
 
 layout: project  
 

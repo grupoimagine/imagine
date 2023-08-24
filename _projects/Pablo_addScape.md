@@ -5,7 +5,7 @@ description:
 
 people:
   - prof-pablofigueroa
-  - master-vivianGomez
+  - prof-vivianGomez
 
 layout: project
 

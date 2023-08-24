@@ -5,9 +5,9 @@ description: A serious game about balancing your life
 
 people:
   - prof-pablofigueroa
-  - ugrad-julianMendoza
-  - ugrad-julioMorales
-  - ugrad-andresGonzalez
+  - ugrad-alum-julianMendoza
+  - ugrad-alum-julioMorales
+  - ugrad-alum-andresGonzalez
 
 layout: project
 

@@ -5,8 +5,9 @@ description:
 
 people:
   - prof-pablofigueroa
-  - master-vivianGomez
+  - prof-vivianGomez
   - master-sebastianCalvache
+  - master-valentinaUribe
   - collab-markusTatzgen
 
 layout: project

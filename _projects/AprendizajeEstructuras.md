@@ -5,7 +5,7 @@ description: Las estructuras de datos son un tema fundamental que se aborda en l
 
 people:
   - prof-fernandodelarosa
-  - vhanessaCardona
+  - ugrad-alum-vhanessaCardona
 
 layout: project
 

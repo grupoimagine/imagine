@@ -5,9 +5,9 @@ description: Mediante un proceso de desarrollo ágil de software se produjo un v
 
 people:
   - prof-pablofigueroa
-  - ugrad-andresSanchez
-  - ugrad-santiagoGamboa
-  - ugrad-nicolasFajardo
+  - ugrad-alum-andresSanchez
+  - ugrad-alum-santiagoGamboa
+  - ugrad-alum-nicolasFajardo
 
 layout: project
 

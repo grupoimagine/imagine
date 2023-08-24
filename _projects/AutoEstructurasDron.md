@@ -5,7 +5,7 @@ description: La inspección de estructuras físicas es una tarea crítica, y omi
 
 people:
   - prof-fernandodelarosa
-  - davidOviedo
+  - master-davidOviedo
 
 layout: project
 

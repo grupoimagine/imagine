@@ -5,7 +5,7 @@ description: Develop a tool for researchers to help them summarize, annotate and
 
 people:
   - prof-johnguerra
-  - ugrad-estebanDalel
+  - ugrad-alum-estebanDalel
 
 layout: project  
 

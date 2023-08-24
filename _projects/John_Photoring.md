@@ -5,8 +5,8 @@ description: An efficent architecture for the exploration of big photo datasets 
 
 people:
   - prof-johnguerra
-  - ugrad-davidDelgado
-  - ugrad-davidLaiton
+  - ugrad-alum-davidDelgado
+  - ugrad-alum-davidLaiton
 
 layout: project  
 
