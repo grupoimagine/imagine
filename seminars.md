@@ -145,7 +145,7 @@ Take a look at our latest seminars. You can also check all our content in our Yo
 		            </h4>
 		        </div>
 		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
-		    	{% assign person = site.data.people["phd-joseDorado"] %}
+		    	{% assign person = site.data.people["phd-alum-joseDorado"] %}
 		        {% include person.html person=person image=true%}
 		     </div>
   		</div>	
@@ -261,7 +261,7 @@ Take a look at our latest seminars. You can also check all our content in our Yo
 		            </h4>
 		        </div>
 		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
-		    	{% assign person = site.data.people["phd-alum-johannGonzalez"] %}
+		    	{% assign person = site.data.people["master-alum-johannGonzalez"] %}
 		        {% include person.html person=person image=true%}
 		     </div>
   		</div>	
@@ -449,7 +449,7 @@ Take a look at our latest seminars. You can also check all our content in our Yo
 		            </h4>
 		        </div>
 		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
-		    	{% assign person = site.data.people["master-franciscoDurango"] %}
+		    	{% assign person = site.data.people["master-alum-franciscoDurango"] %}
 		        {% include person.html person=person image=true%}
 		     </div>
   		</div>	
@@ -506,7 +506,7 @@ Take a look at our latest seminars. You can also check all our content in our Yo
 		            </h4>
 		        </div>
 		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
-		        {% assign person = site.data.people["phd-praimbaud"] %}
+		        {% assign person = site.data.people["phd-alum-praimbaud"] %}
 		        {% include person.html person=person image=true%}
 		     </div>
   		</div>	
@@ -525,7 +525,7 @@ Take a look at our latest seminars. You can also check all our content in our Yo
 		            </h4>
 		        </div>
 		    <div class="card-footer d-flex flex-row flex-wrap justify-content-center"> 
-		        {% assign person = site.data.people["phd-alum-johannGonzalez"] %}
+		        {% assign person = site.data.people["master-alum-johannGonzalez"] %}
 		        {% include person.html person=person image=true%}
 		     </div>
   		</div>	

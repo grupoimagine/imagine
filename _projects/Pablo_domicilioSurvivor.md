@@ -5,9 +5,9 @@ description: You are a delivery man who must deliver a package as quickly as pos
 
 people:
   - prof-pablofigueroa
-  - ugrad-santiagoSerrano
-  - ugrad-carlosOrduz
-  - ugrad-jesusCarcamo
+  - ugrad-alum-santiagoSerrano
+  - ugrad-alum-carlosOrduz
+  - ugrad-alum-jesusCarcamo
 
 layout: project
 

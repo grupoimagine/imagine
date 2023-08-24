@@ -5,9 +5,9 @@ description: Videojuego educativo desarrollado en Unity
 
 people:
   - prof-pablofigueroa
-  - gabrielSerna
-  - camiloOtalora
-  - arturoRubio
+  - ugrad-alum-gabrielSerna
+  - ugrad-alum-camiloOtalora
+  - ugrad-arturoRubio
 
 layout: project
 

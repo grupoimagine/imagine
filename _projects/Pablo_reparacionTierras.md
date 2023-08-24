@@ -5,9 +5,9 @@ description: El proyecto tiene como objetivo dar a conocerlas etapas que se llev
 
 people:
   - prof-pablofigueroa
-  - yesidBejarano
-  - juanManuelMuñoz
-  - juanSebastianArciniegas
+  - ugrad-alum-yesidBejarano
+  - ugrad-alum-juanManuelMuñoz
+  - ugrad-alum-juanSebastianArciniegas
 
 layout: project
 

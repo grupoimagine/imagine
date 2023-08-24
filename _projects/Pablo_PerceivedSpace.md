@@ -5,7 +5,7 @@ description:
 
 people:
   - prof-pablofigueroa
-  - phd-joseDorado
+  - phd-alum-joseDorado
 
 layout: project
 

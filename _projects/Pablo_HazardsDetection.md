@@ -5,7 +5,7 @@ description: Training for hazard identification using VR.
 
 people:
   - prof-pablofigueroa
-  - ugrad-santiagoBeltran
+  - ugrad-alum-santiagoBeltran
 
 layout: project
 

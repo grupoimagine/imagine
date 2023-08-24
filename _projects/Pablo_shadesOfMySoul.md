@@ -5,8 +5,8 @@ description: El proyecto de grado se basa en la idea de conformar un equipo de d
 
 people:
   - prof-pablofigueroa
-  - ugrad-juanPabloOtalora
-  - ugrad-eliasNegrete
+  - ugrad-alum-juanPabloOtalora
+  - ugrad-alum-eliasNegrete
 
 layout: project
 

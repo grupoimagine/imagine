@@ -5,7 +5,7 @@ description: A Shape Changing Prop with Haptic Retargeting
 
 people:
   - prof-pablofigueroa
-  - phd-alum-johannGonzalez
+  - master-alum-johannGonzalez
   - collab-robTeather
   - collab-johnCMcClelland
   - collab-audreyGirouard

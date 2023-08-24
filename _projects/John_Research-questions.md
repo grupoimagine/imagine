@@ -5,7 +5,7 @@ description: Apply NLP techniques to a database of NYT articles. COMPLETE
 
 people:
   - prof-johnguerra
-  - ugrad-nicolarChavez
+  - ugrad-alum-nicolarChavez
 
 layout: project  
 

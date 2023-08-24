@@ -33,7 +33,7 @@ prof-vivianGomez:
     role: faculty
     webpage: https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/
     image: /img/people/foto_VivianGomez.JPG
-    bio: Instructor Professor
+    bio: Instructor Professor & Colivri Lab Coordinator
 
 
 #Ugrad (undergraduate students)
@@ -47,7 +47,7 @@ ugrad-abelArismendy:
     display_name: Abel Arismendy
     role: ugrad
     image: /img/people/foto_abelArismendy.jpeg
-    webpage: https://github.com/abelarismendy/
+    webpage: https://abel.arismendy.co/
 
 ugrad-juanEsteban:
     display_name: Juan Esteban Rodriguez
@@ -690,12 +690,6 @@ ugrad-alum-juanSebastianArciniegas:
 
 
 #master-alum (former students)
-
-master-alum-camiloUseche:
-    display_name: Juan Camilo Useche
-    role: master-alum
-    webpage: https://juancamilousecherodriguez.github.io/
-    image: /img/people/foto_juanUseche.jpg
 
 master-alum-camiloUseche:
     display_name: Juan Camilo Useche

@@ -5,9 +5,9 @@ description:
 
 people:
   - prof-pablofigueroa
-  - ugrad-pabloSuarez
-  - ugrad-danielPardo
-  - ugrad-andresLosada
+  - ugrad-alum-pabloSuarez
+  - ugrad-alum-danielPardo
+  - ugrad-alum-andresLosada
 
 layout: project
 

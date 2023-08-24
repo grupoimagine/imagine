@@ -6,8 +6,8 @@ description: This PhD thesis project aims to propose mixed reality applications 
 people:
   - prof-josehernandez
   - prof-pablofigueroa
-  - phd-praimbaud
-  - grad-salvarez
+  - phd-alum-praimbaud
+  # NOT FOUND - grad-salvarez
 
 research_area: Mixed Realities
 

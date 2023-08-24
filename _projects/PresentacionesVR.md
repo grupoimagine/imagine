@@ -4,7 +4,7 @@ title: Ambiente VR para preparar presentaciones en público
 description: Desarrollar un ambiente en realidad virtual, similar a un salon de clases, para ayudar a preparar presentaciones en público a partir del proyecto STAGE desarrollado anteriormente por la Universidad de Würzburg en Unreal Engine.
 
 people:
-  - ugrad-GabrielaCaballero
+  - ugrad-alum-GabrielaCaballero
   - prof-pablofigueroa
 
 layout: project
