@@ -113,6 +113,7 @@ master-valentinaRozo:
 master-valentinaUribe:
     display_name: Valentina Uribe
     role: master
+    image: /img/people/foto_valentinaUribe.jpg
 
 master-joseLuna:
     display_name: José Luna
