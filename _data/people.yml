@@ -46,7 +46,7 @@ ugrad-arturoRubio:
 ugrad-abelArismendy:
     display_name: Abel Arismendy
     role: ugrad
-    image: /img/people/foto_abelArismendy.jpeg
+    image: /img/people/foto_abelArismendy.jpg
     webpage: https://abel.arismendy.co/
 
 ugrad-juanEsteban:
@@ -109,6 +109,7 @@ master-davidOviedo:
 master-valentinaRozo:
     display_name: Valentina Rozo
     role: master
+    image: /img/people/foto_valentinaRozo.jpg
 
 master-valentinaUribe:
     display_name: Valentina Uribe
