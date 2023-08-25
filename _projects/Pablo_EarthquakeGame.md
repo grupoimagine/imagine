@@ -7,7 +7,7 @@ people:
   - prof-pablofigueroa
   - ugrad-alum-camiloZambrano
   - ugrad-alum-zulmaCastaneda
-  - ugrad-alum-camiloUseche
+  - master-alum-camiloUseche
 
 image: /img/projects/Pablo/earthquakeSimulator.PNG
 
