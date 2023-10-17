@@ -18,7 +18,7 @@ layout: project
 
 research_area: Mixed Realities
 
-image: /img/projects/Pablo/GD-COLIVRI.PNG
+image: /img/projects/Pablo/GD-COLIVRI.png
 
 last-updated: 2023-10-17
 ---
