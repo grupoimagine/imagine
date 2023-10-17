@@ -38,11 +38,6 @@ prof-vivianGomez:
 
 #Ugrad (undergraduate students)
 
-ugrad-arturoRubio:
-    display_name: Arturo Rubio
-    role: ugrad
-    image: /img/people/foto_arturoRubio.jfif
-
 ugrad-abelArismendy:
     display_name: Abel Arismendy
     role: ugrad
@@ -54,47 +49,42 @@ ugrad-juanEsteban:
     role: ugrad
     image: /img/people/foto_juanEsteban.jpg
 
-ugrad-juanBautista:
-    display_name: Juan David Bautista Parra
+ugrad-lauraMonroy:
+    display_name: Laura Milena Monroy Torres
     role: ugrad
-
-ugrad-gabrielaCagua:
-    display_name: Gabriela Cagua Bolivar
-    role: ugrad
+    image: /img/people/foto_lauraMonroy.jpeg
 
 ugrad-melissaContreras:
     display_name: Melissa Lizeth Contreras Rojas
     role: ugrad
 
-ugrad-camiloFalla:
-    display_name: Camilo Falla Moreno
+ugrad-nicolasRueda:
+    display_name: Nicolas Enrique Rueda Rincon
     role: ugrad
 
-ugrad-juanSantiago:
-    display_name: Juan Andrés Santiago Vasques
+ugrad-nicolasFalla:
+    display_name: Nicolas Falla Bernal
     role: ugrad
 
-ugrad-carlosSilva:
-    display_name: Carlos Enrique Silva Lascarro
+ugrad-juanAlegria:
+    display_name: Juan Sebastian Alegria Zuñiga
     role: ugrad
 
-ugrad-mariaGarcia:
-    display_name: Maria Valentina Garcia Alvarado
+ugrad-julianMora:
+    display_name: Julian Camilo Mora Valbuena
     role: ugrad
 
-ugrad-leonardoMejia:
-    display_name: Leonardo Mejia
-    role: ugrad
+
+
+#Master (graduate students)
 
 ugrad-estebanOrtiz:
     display_name: Esteban Emmanuel Ortiz Morales
     role: ugrad
 
-ugrad-juanRivera:
+master-juanRivera:
     display_name: Juan Manuel Rivera Lopez
-    role: ugrad
-
-#Master (graduate students)
+    role: master
 
 master-sebastianCalvache:
     display_name: Sebastian Calvache Mejia
@@ -116,15 +106,6 @@ master-valentinaUribe:
     role: master
     image: /img/people/foto_valentinaUribe.jpg
 
-master-joseLuna:
-    display_name: José Luna
-    role: master
-    image: /img/people/foto_joseLuna.jpeg
-
-master-juanPalacios:
-    display_name: Juan Felipe Palacios Sanchez
-    role: master
-
 
 #PhD (doctoral students)
 
@@ -137,6 +118,23 @@ master-juanPalacios:
 #     webpage: <webpage>
 #     image: <image>
 
+
+# Postdoc (postdoctoral researchers)
+
+# MODIFY _config.yml TO ADD THIS SECTION
+
+# format:
+# postdoc-<name>:
+#     display_name: <name>
+#     role: postdoc
+#     webpage: <webpage>
+#     image: <image>
+
+postdoc-joseDorado:
+    display_name: José Luis Dorado
+    role: postdoc
+    webpage: https://www.researchgate.net/profile/Jose_Dorado5
+    image: /img/people/foto_JoseDorado.jpg
 
 #Collab (collaborators)
 
@@ -245,6 +243,39 @@ collab-markusTatzgen:
 # ------------------ FORMER MEMBERS ------------------ #
 
 #Ugrad-alum (former students)
+
+ugrad-alum-leonardoMejia:
+    display_name: Leonardo Mejia
+    role: ugrad-alum
+
+ugrad-alum-mariaGarcia:
+    display_name: Maria Valentina Garcia Alvarado
+    role: ugrad-alum
+
+ugrad-alum-carlosSilva:
+    display_name: Carlos Enrique Silva Lascarro
+    role: ugrad-alum
+
+ugrad-alum-juanSantiago:
+    display_name: Juan Andrés Santiago Vasques
+    role: ugrad-alum
+
+ugrad-alum-camiloFalla:
+    display_name: Camilo Falla Moreno
+    role: ugrad-alum
+
+ugrad-alum-gabrielaCagua:
+    display_name: Gabriela Cagua Bolivar
+    role: ugrad-alum
+
+ugrad-alum-juanBautista:
+    display_name: Juan David Bautista Parra
+    role: ugrad-alum
+
+ugrad-alum-arturoRubio:
+    display_name: Arturo Rubio
+    role: ugrad-alum
+    image: /img/people/foto_arturoRubio.jfif
 
 ugrad-alum-marioMedina:
     display_name: Mario Felipe Medina Zamudio
@@ -693,6 +724,15 @@ ugrad-alum-juanSebastianArciniegas:
 
 #master-alum (former students)
 
+master-alum-juanPalacios:
+    display_name: Juan Felipe Palacios Sanchez
+    role: master-alum
+
+master-alum-joseLuna:
+    display_name: José Luna
+    role: master-alum
+    image: /img/people/foto_joseLuna.jpeg
+
 master-alum-camiloUseche:
     display_name: Juan Camilo Useche
     role: master-alum
@@ -818,12 +858,6 @@ phd-alum-diegorodriguez:
 phd-alum-juanCamiloIbarra:
     display_name: Juan Camilo Ibarra
     role: phd-alum
-
-phd-alum-joseDorado:
-    display_name: José Luis Dorado
-    role: phd-alum
-    webpage: https://www.researchgate.net/profile/Jose_Dorado5
-    image: /img/people/foto_JoseDorado.jpg
 
 phd-alum-juanPabloReyes:
     display_name: Juan Pablo Reyes Gomez
