@@ -6,7 +6,7 @@ description: The project is focused in the development of a perceptual calibrati
 people:
   - prof-pablofigueroa
   - prof-josehernandez
-  - phd-alum-joseDorado
+  - postdoc-joseDorado
 
 layout: project
 
