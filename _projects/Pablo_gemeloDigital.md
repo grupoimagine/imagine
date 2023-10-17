@@ -6,6 +6,7 @@ description: El proyecto Gemelo Digital de Colivri se presenta como una vanguard
 
 people:
   - prof-pablofigueroa
+  - prof-vivianGomez
   - ugrad-juanEsteban
   - ugrad-melissaContreras
   - ugrad-juanAlegria
