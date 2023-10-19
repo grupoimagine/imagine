@@ -57,6 +57,7 @@ ugrad-lauraMonroy:
 ugrad-melissaContreras:
     display_name: Melissa Lizeth Contreras Rojas
     role: ugrad
+    image: /img/people/foto_melissaContreras.jpeg
 
 ugrad-nicolasRueda:
     display_name: Nicolas Enrique Rueda Rincon
@@ -73,6 +74,8 @@ ugrad-juanAlegria:
 ugrad-julianMora:
     display_name: Julian Camilo Mora Valbuena
     role: ugrad
+    image: /img/people/foto_julianMora.jpeg
+    webpage: https://co.linkedin.com/in/juli%C3%A1n-27-mora
 
 
 
@@ -85,12 +88,6 @@ ugrad-estebanOrtiz:
 master-juanRivera:
     display_name: Juan Manuel Rivera Lopez
     role: master
-
-master-sebastianCalvache:
-    display_name: Sebastian Calvache Mejia
-    role: master
-    webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
-    image: /img/people/foto_SebastianCalvache.png
 
 master-davidOviedo:
     display_name: David Alberto Oviedo De La Torre
@@ -723,6 +720,12 @@ ugrad-alum-juanSebastianArciniegas:
 
 
 #master-alum (former students)
+
+master-alum-sebastianCalvache:
+    display_name: Sebastian Calvache Mejia
+    role: master-alum
+    webpage: https://www.linkedin.com/in/sebastian-calvache-mejia/
+    image: /img/people/foto_SebastianCalvache.png
 
 master-alum-juanPalacios:
     display_name: Juan Felipe Palacios Sanchez
