@@ -71,6 +71,8 @@ ugrad-nicolasFalla:
 ugrad-juanAlegria:
     display_name: Juan Sebastian Alegria Zuñiga
     role: ugrad
+    image: /img/people/foto_juanAlegria.jpeg
+    webpage: https://www.linkedin.com/in/juanszalegria/
 
 ugrad-julianMora:
     display_name: Julian Camilo Mora Valbuena
